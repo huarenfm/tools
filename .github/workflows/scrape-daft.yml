@@ -16,8 +16,11 @@ jobs:
 
     steps:
 
-      - name: Checkout repository
+      - name: Checkout main repository
         uses: actions/checkout@v4
+        with:
+          repository: edwardw223/Ireland-Property-Map
+          token: ${{ secrets.MAIN_REPO_TOKEN }}
 
       - name: Setup Node.js
         uses: actions/setup-node@v4
@@ -53,9 +56,5 @@ jobs:
           git add data/daft/sale
 
           git diff --cached --quiet || git commit -m "Update Daft Sale Regions"
-
-          git remote set-url origin https://x-access-token:${{ secrets.MAIN_REPO_TOKEN }}@github.com/edwardw223/Ireland-Property-Map.git
-
-          git pull --rebase --autostash origin main
           
-          git push origin main
+          git push
