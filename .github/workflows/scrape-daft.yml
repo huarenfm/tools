@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
 
   schedule:
-    - cron: "15 1 * * 1-5"
+    - cron: "30 2 * * 1-5"
 
 permissions:
   contents: write
@@ -29,12 +29,20 @@ jobs:
 
       - name: Install Playwright
         run: npx playwright install chromium
+        
 
-      - name: Scrape Sale Dublin1
-        run: node scripts/scrape-daft.js dublin1
-
-      - name: Scrape Sale Dublin2
-        run: node scripts/scrape-daft.js dublin2
+      - name: Scrape Sale East
+        run: node scripts/scrape-daft.js east
+      
+      - name: Scrape Sale Southeast
+        run: node scripts/scrape-daft.js southeast
+      
+      - name: Scrape Sale West
+        run: node scripts/scrape-daft.js west
+      
+      - name: Scrape Sale Other
+        run: node scripts/scrape-daft.js other
+        
 
       - name: Commit updated properties
         run: |
@@ -44,7 +52,7 @@ jobs:
 
           git add data/daft/sale
 
-          git diff --cached --quiet || git commit -m "Update Daft Sale"
+          git diff --cached --quiet || git commit -m "Update Daft Sale Regions"
 
           git pull --rebase --autostash origin main
           git push
