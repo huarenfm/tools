@@ -1,0 +1,26 @@
+{
+  "name": "ireland-property-map",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edwardw223/Ireland-Property-Map.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edwardw223/Ireland-Property-Map/issues"
+  },
+  "homepage": "https://github.com/edwardw223/Ireland-Property-Map#readme",
+  "dependencies": {
+    "@inquirer/prompts": "^8.5.2",
+    "axios": "^1.18.1",
+    "chalk": "^5.6.2",
+    "playwright": "^1.61.1"
+  }
+}
