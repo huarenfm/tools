@@ -1,0 +1,4407 @@
+[
+  {
+    "name": "Abbey, Galway",
+    "slug": "abbey-galway",
+    "enabled": true
+  },
+  {
+    "name": "Abbeyknockmoy, Galway",
+    "slug": "abbeyknockmoy-galway",
+    "enabled": true
+  },
+  {
+    "name": "Adamstown, Dublin",
+    "slug": "adamstown-dublin",
+    "enabled": true
+  },
+  {
+    "name": "Adrigole, Cork",
+    "slug": "adrigole-cork",
+    "enabled": true
+  },
+  {
+    "name": "Aghabullogue, Cork",
+    "slug": "aghabullogue-cork",
+    "enabled": true
+  },
+  {
+    "name": "Aghada, Cork",
+    "slug": "aghada-cork",
+    "enabled": true
+  },
+  {
+    "name": "Aghaville, Cork",
+    "slug": "aghaville-cork",
+    "enabled": true
+  },
+  {
+    "name": "Ahakista, Cork",
+    "slug": "ahakista-cork",
+    "enabled": true
+  },
+  {
+    "name": "Ahascragh, Galway",
+    "slug": "ahascragh-galway",
+    "enabled": true
+  },
+  {
+    "name": "Aherla, Cork",
+    "slug": "aherla-cork",
+    "enabled": true
+  },
+  {
+    "name": "Aille, Galway",
+    "slug": "aille-galway",
+    "enabled": true
+  },
+  {
+    "name": "Allihies, Cork",
+    "slug": "allihies-cork",
+    "enabled": true
+  },
+  {
+    "name": "Alloon Lower, Galway",
+    "slug": "alloon-lower-galway",
+    "enabled": true
+  },
+  {
+    "name": "Annaghdown, Galway",
+    "slug": "annaghdown-galway",
+    "enabled": true
+  },
+  {
+    "name": "Araglin, Cork",
+    "slug": "araglin-cork",
+    "enabled": true
+  },
+  {
+    "name": "Aran Islands, Galway",
+    "slug": "aran-islands-galway",
+    "enabled": true
+  },
+  {
+    "name": "Ard Na Greine, Dublin",
+    "slug": "ard-na-greine-dublin",
+    "enabled": true
+  },
+  {
+    "name": "Ard, Galway",
+    "slug": "ard-galway",
+    "enabled": true
+  },
+  {
+    "name": "Ardcloon, Galway",
+    "slug": "ardcloon-galway",
+    "enabled": true
+  },
+  {
+    "name": "Ardfield, Cork",
+    "slug": "ardfield-cork",
+    "enabled": true
+  },
+  {
+    "name": "Ardgehane, Cork",
+    "slug": "ardgehane-cork",
+    "enabled": true
+  },
+  {
+    "name": "Ardglass, Cork",
+    "slug": "ardglass-cork",
+    "enabled": true
+  },
+  {
+    "name": "Ardgroom, Cork",
+    "slug": "ardgroom-cork",
+    "enabled": true
+  },
+  {
+    "name": "Ardmore, Galway",
+    "slug": "ardmore-galway",
+    "enabled": true
+  },
+  {
+    "name": "Ardnadoman, Galway",
+    "slug": "ardnadoman-galway",
+    "enabled": true
+  },
+  {
+    "name": "Ardnagreevagh, Galway",
+    "slug": "ardnagreevagh-galway",
+    "enabled": true
+  },
+  {
+    "name": "Ardnasodan, Galway",
+    "slug": "ardnasodan-galway",
+    "enabled": true
+  },
+  {
+    "name": "Ardrahan, Galway",
+    "slug": "ardrahan-galway",
+    "enabled": true
+  },
+  {
+    "name": "Ashington, Dublin",
+    "slug": "ashington-dublin",
+    "enabled": true
+  },
+  {
+    "name": "Ashton, Cork",
+    "slug": "ashton-cork",
+    "enabled": true
+  },
+  {
+    "name": "Athenry, Galway",
+    "slug": "athenry-galway",
+    "enabled": true
+  },
+  {
+    "name": "Attymon, Galway",
+    "slug": "attymon-galway",
+    "enabled": true
+  },
+  {
+    "name": "Aucloggeen, Galway",
+    "slug": "aucloggeen-galway",
+    "enabled": true
+  },
+  {
+    "name": "Aughrim, Galway",
+    "slug": "aughrim-galway",
+    "enabled": true
+  },
+  {
+    "name": "Aughrus More, Galway",
+    "slug": "aughrus-more-galway",
+    "enabled": true
+  },
+  {
+    "name": "Ayrfield, Dublin",
+    "slug": "ayrfield-dublin",
+    "enabled": true
+  },
+  {
+    "name": "Balbriggan, Dublin",
+    "slug": "balbriggan-dublin",
+    "enabled": true
+  },
+  {
+    "name": "Ballagh, Galway",
+    "slug": "ballagh-galway",
+    "enabled": true
+  },
+  {
+    "name": "Ballard, Galway",
+    "slug": "ballard-galway",
+    "enabled": true
+  },
+  {
+    "name": "Ballardiggan, Galway",
+    "slug": "ballardiggan-galway",
+    "enabled": true
+  },
+  {
+    "name": "Ballinaboy, Galway",
+    "slug": "ballinaboy-galway",
+    "enabled": true
+  },
+  {
+    "name": "Ballinadee, Cork",
+    "slug": "ballinadee-cork",
+    "enabled": true
+  },
+  {
+    "name": "Ballinafad, Galway",
+    "slug": "ballinafad-galway",
+    "enabled": true
+  },
+  {
+    "name": "Ballinamore Bridge, Galway",
+    "slug": "ballinamore-bridge-galway",
+    "enabled": true
+  },
+  {
+    "name": "Ballinascarty, Cork",
+    "slug": "ballinascarty-cork",
+    "enabled": true
+  },
+  {
+    "name": "Ballinascorney, Dublin",
+    "slug": "ballinascorney-dublin",
+    "enabled": true
+  },
+  {
+    "name": "Ballinasloe, Galway",
+    "slug": "ballinasloe-galway",
+    "enabled": true
+  },
+  {
+    "name": "Ballinclashet, Cork",
+    "slug": "ballinclashet-cork",
+    "enabled": true
+  },
+  {
+    "name": "Ballincollig, Cork",
+    "slug": "ballincollig-cork",
+    "enabled": true
+  },
+  {
+    "name": "Ballincrokig, Cork",
+    "slug": "ballincrokig-cork",
+    "enabled": true
+  },
+  {
+    "name": "Ballincurrig, Cork",
+    "slug": "ballincurrig-cork",
+    "enabled": true
+  },
+  {
+    "name": "Ballinderreen, Galway",
+    "slug": "ballinderreen-galway",
+    "enabled": true
+  },
+  {
+    "name": "Ballineen, Cork",
+    "slug": "ballineen-cork",
+    "enabled": true
+  },
+  {
+    "name": "Ballingeary, Cork",
+    "slug": "ballingeary-cork",
+    "enabled": true
+  },
+  {
+    "name": "Ballingurteen, Cork",
+    "slug": "ballingurteen-cork",
+    "enabled": true
+  },
+  {
+    "name": "Ballinhassig, Cork",
+    "slug": "ballinhassig-cork",
+    "enabled": true
+  },
+  {
+    "name": "Ballinlough, Cork",
+    "slug": "ballinlough-cork",
+    "enabled": true
+  },
+  {
+    "name": "Ballinluska, Cork",
+    "slug": "ballinluska-cork",
+    "enabled": true
+  },
+  {
+    "name": "Ballinora, Cork",
+    "slug": "ballinora-cork",
+    "enabled": true
+  },
+  {
+    "name": "Ballinrea, Cork",
+    "slug": "ballinrea-cork",
+    "enabled": true
+  },
+  {
+    "name": "Ballinspittle, Cork",
+    "slug": "ballinspittle-cork",
+    "enabled": true
+  },
+  {
+    "name": "Ballintemple, Cork",
+    "slug": "ballintemple-cork",
+    "enabled": true
+  },
+  {
+    "name": "Ballintemple, Galway",
+    "slug": "ballintemple-galway",
+    "enabled": true
+  },
+  {
+    "name": "Ballinure, Cork",
+    "slug": "ballinure-cork",
+    "enabled": true
+  },
+  {
+    "name": "Ballinveiltig, Cork",
+    "slug": "ballinveiltig-cork",
+    "enabled": true
+  },
+  {
+    "name": "Ballinvoultig, Cork",
+    "slug": "ballinvoultig-cork",
+    "enabled": true
+  },
+  {
+    "name": "Ballinvrinsig, Cork",
+    "slug": "ballinvrinsig-cork",
+    "enabled": true
+  },
+  {
+    "name": "Ballinvuskig, Cork",
+    "slug": "ballinvuskig-cork",
+    "enabled": true
+  },
+  {
+    "name": "Ballybane, Galway",
+    "slug": "ballybane-galway",
+    "enabled": true
+  },
+  {
+    "name": "Ballyboden, Dublin",
+    "slug": "ballyboden-dublin",
+    "enabled": true
+  },
+  {
+    "name": "Ballyboughal, Dublin",
+    "slug": "ballyboughal-dublin",
+    "enabled": true
+  },
+  {
+    "name": "Ballybrack, Dublin",
+    "slug": "ballybrack-dublin",
+    "enabled": true
+  },
+  {
+    "name": "Ballybrit, Galway",
+    "slug": "ballybrit-galway",
+    "enabled": true
+  },
+  {
+    "name": "Ballyburden, Cork",
+    "slug": "ballyburden-cork",
+    "enabled": true
+  },
+  {
+    "name": "Ballyburke, Galway",
+    "slug": "ballyburke-galway",
+    "enabled": true
+  },
+  {
+    "name": "Ballyclery, Galway",
+    "slug": "ballyclery-galway",
+    "enabled": true
+  },
+  {
+    "name": "Ballyclough, Cork",
+    "slug": "ballyclough-cork",
+    "enabled": true
+  },
+  {
+    "name": "Ballyconneely, Galway",
+    "slug": "ballyconneely-galway",
+    "enabled": true
+  },
+  {
+    "name": "Ballycorus, Dublin",
+    "slug": "ballycorus-dublin",
+    "enabled": true
+  },
+  {
+    "name": "Ballycotton, Cork",
+    "slug": "ballycotton-cork",
+    "enabled": true
+  },
+  {
+    "name": "Ballycrossaun, Galway",
+    "slug": "ballycrossaun-galway",
+    "enabled": true
+  },
+  {
+    "name": "Ballydavid, Galway",
+    "slug": "ballydavid-galway",
+    "enabled": true
+  },
+  {
+    "name": "Ballydehob, Cork",
+    "slug": "ballydehob-cork",
+    "enabled": true
+  },
+  {
+    "name": "Ballydesmond, Cork",
+    "slug": "ballydesmond-cork",
+    "enabled": true
+  },
+  {
+    "name": "Ballydonegan, Cork",
+    "slug": "ballydonegan-cork",
+    "enabled": true
+  },
+  {
+    "name": "Ballyfeard, Cork",
+    "slug": "ballyfeard-cork",
+    "enabled": true
+  },
+  {
+    "name": "Ballygar, Galway",
+    "slug": "ballygar-galway",
+    "enabled": true
+  },
+  {
+    "name": "Ballygarvan, Cork",
+    "slug": "ballygarvan-cork",
+    "enabled": true
+  },
+  {
+    "name": "Ballyglunin, Galway",
+    "slug": "ballyglunin-galway",
+    "enabled": true
+  },
+  {
+    "name": "Ballyhale, Galway",
+    "slug": "ballyhale-galway",
+    "enabled": true
+  },
+  {
+    "name": "Ballyhear, Galway",
+    "slug": "ballyhear-galway",
+    "enabled": true
+  },
+  {
+    "name": "Ballyhooly, Cork",
+    "slug": "ballyhooly-cork",
+    "enabled": true
+  },
+  {
+    "name": "Ballylickey, Cork",
+    "slug": "ballylickey-cork",
+    "enabled": true
+  },
+  {
+    "name": "Ballymacoda, Cork",
+    "slug": "ballymacoda-cork",
+    "enabled": true
+  },
+  {
+    "name": "Ballymacward, Galway",
+    "slug": "ballymacward-galway",
+    "enabled": true
+  },
+  {
+    "name": "Ballymadog, Cork",
+    "slug": "ballymadog-cork",
+    "enabled": true
+  },
+  {
+    "name": "Ballymakeagh, Cork",
+    "slug": "ballymakeagh-cork",
+    "enabled": true
+  },
+  {
+    "name": "Ballymakeera, Cork",
+    "slug": "ballymakeera-cork",
+    "enabled": true
+  },
+  {
+    "name": "Ballymartle, Cork",
+    "slug": "ballymartle-cork",
+    "enabled": true
+  },
+  {
+    "name": "Ballymoe, Galway",
+    "slug": "ballymoe-galway",
+    "enabled": true
+  },
+  {
+    "name": "Ballymoneen, Galway",
+    "slug": "ballymoneen-galway",
+    "enabled": true
+  },
+  {
+    "name": "Ballymount, Dublin",
+    "slug": "ballymount-dublin",
+    "enabled": true
+  },
+  {
+    "name": "Ballynacallagh, Cork",
+    "slug": "ballynacallagh-cork",
+    "enabled": true
+  },
+  {
+    "name": "Ballynacarriga, Cork",
+    "slug": "ballynacarriga-cork",
+    "enabled": true
+  },
+  {
+    "name": "Ballynacorra, Cork",
+    "slug": "ballynacorra-cork",
+    "enabled": true
+  },
+  {
+    "name": "Ballynagree, Cork",
+    "slug": "ballynagree-cork",
+    "enabled": true
+  },
+  {
+    "name": "Ballynahinch, Galway",
+    "slug": "ballynahinch-galway",
+    "enabled": true
+  },
+  {
+    "name": "Ballynahown, Galway",
+    "slug": "ballynahown-galway",
+    "enabled": true
+  },
+  {
+    "name": "Ballynamona, Cork",
+    "slug": "ballynamona-cork",
+    "enabled": true
+  },
+  {
+    "name": "Ballynoe, Cork",
+    "slug": "ballynoe-cork",
+    "enabled": true
+  },
+  {
+    "name": "Ballyphehane, Cork",
+    "slug": "ballyphehane-cork",
+    "enabled": true
+  },
+  {
+    "name": "Ballyroon, Cork",
+    "slug": "ballyroon-cork",
+    "enabled": true
+  },
+  {
+    "name": "Ballyvoge, Cork",
+    "slug": "ballyvoge-cork",
+    "enabled": true
+  },
+  {
+    "name": "Ballyvolane, Cork",
+    "slug": "ballyvolane-cork",
+    "enabled": true
+  },
+  {
+    "name": "Ballyvoneen, Galway",
+    "slug": "ballyvoneen-galway",
+    "enabled": true
+  },
+  {
+    "name": "Ballyvourney, Cork",
+    "slug": "ballyvourney-cork",
+    "enabled": true
+  },
+  {
+    "name": "Balrothery, Dublin",
+    "slug": "balrothery-dublin",
+    "enabled": true
+  },
+  {
+    "name": "Balscaddan, Dublin",
+    "slug": "balscaddan-dublin",
+    "enabled": true
+  },
+  {
+    "name": "Baltimore, Cork",
+    "slug": "baltimore-cork",
+    "enabled": true
+  },
+  {
+    "name": "Bandon, Cork",
+    "slug": "bandon-cork",
+    "enabled": true
+  },
+  {
+    "name": "Banduff, Cork",
+    "slug": "banduff-cork",
+    "enabled": true
+  },
+  {
+    "name": "Bannagher, Galway",
+    "slug": "bannagher-galway",
+    "enabled": true
+  },
+  {
+    "name": "Banteer, Cork",
+    "slug": "banteer-cork",
+    "enabled": true
+  },
+  {
+    "name": "Bantry, Cork",
+    "slug": "bantry-cork",
+    "enabled": true
+  },
+  {
+    "name": "Barley Cove, Cork",
+    "slug": "barley-cove-cork",
+    "enabled": true
+  },
+  {
+    "name": "Barna, Galway",
+    "slug": "barna-galway",
+    "enabled": true
+  },
+  {
+    "name": "Barnaderg, Galway",
+    "slug": "barnaderg-galway",
+    "enabled": true
+  },
+  {
+    "name": "Barnavara, Cork",
+    "slug": "barnavara-cork",
+    "enabled": true
+  },
+  {
+    "name": "Bartlemy, Cork",
+    "slug": "bartlemy-cork",
+    "enabled": true
+  },
+  {
+    "name": "Bayside, Dublin",
+    "slug": "bayside-dublin",
+    "enabled": true
+  },
+  {
+    "name": "Beagh, Galway",
+    "slug": "beagh-galway",
+    "enabled": true
+  },
+  {
+    "name": "Bealad Cross Roads, Cork",
+    "slug": "bealad-cross-roads-cork",
+    "enabled": true
+  },
+  {
+    "name": "Bealdangan, Galway",
+    "slug": "bealdangan-galway",
+    "enabled": true
+  },
+  {
+    "name": "Bealnablath, Cork",
+    "slug": "bealnablath-cork",
+    "enabled": true
+  },
+  {
+    "name": "Beara, Cork",
+    "slug": "beara-cork",
+    "enabled": true
+  },
+  {
+    "name": "Beennaskehy, Cork",
+    "slug": "beennaskehy-cork",
+    "enabled": true
+  },
+  {
+    "name": "Belclare, Galway",
+    "slug": "belclare-galway",
+    "enabled": true
+  },
+  {
+    "name": "Belfield, Dublin",
+    "slug": "belfield-dublin",
+    "enabled": true
+  },
+  {
+    "name": "Belgooly, Cork",
+    "slug": "belgooly-cork",
+    "enabled": true
+  },
+  {
+    "name": "Belvelly, Cork",
+    "slug": "belvelly-cork",
+    "enabled": true
+  },
+  {
+    "name": "Bere Island, Cork",
+    "slug": "bere-island-cork",
+    "enabled": true
+  },
+  {
+    "name": "Berrings, Cork",
+    "slug": "berrings-cork",
+    "enabled": true
+  },
+  {
+    "name": "Bishopstown, Cork",
+    "slug": "bishopstown-cork",
+    "enabled": true
+  },
+  {
+    "name": "Blackpool, Cork",
+    "slug": "blackpool-cork",
+    "enabled": true
+  },
+  {
+    "name": "Blackrock, Cork",
+    "slug": "blackrock-cork",
+    "enabled": true
+  },
+  {
+    "name": "Blackrock, Dublin",
+    "slug": "blackrock-dublin",
+    "enabled": true
+  },
+  {
+    "name": "Blarney, Cork",
+    "slug": "blarney-cork",
+    "enabled": true
+  },
+  {
+    "name": "Blueford, Cork",
+    "slug": "blueford-cork",
+    "enabled": true
+  },
+  {
+    "name": "Boherbue, Cork",
+    "slug": "boherbue-cork",
+    "enabled": true
+  },
+  {
+    "name": "Bohermore, Galway",
+    "slug": "bohermore-galway",
+    "enabled": true
+  },
+  {
+    "name": "Boleybeg East, Galway",
+    "slug": "boleybeg-east-galway",
+    "enabled": true
+  },
+  {
+    "name": "Boleybeg, Galway",
+    "slug": "boleybeg-galway",
+    "enabled": true
+  },
+  {
+    "name": "Boleynasruhaun, Galway",
+    "slug": "boleynasruhaun-galway",
+    "enabled": true
+  },
+  {
+    "name": "Booterstown, Dublin",
+    "slug": "booterstown-dublin",
+    "enabled": true
+  },
+  {
+    "name": "Bray, Dublin",
+    "slug": "bray-dublin",
+    "enabled": true
+  },
+  {
+    "name": "Breanloughaun, Galway",
+    "slug": "breanloughaun-galway",
+    "enabled": true
+  },
+  {
+    "name": "Brennanstown, Dublin",
+    "slug": "brennanstown-dublin",
+    "enabled": true
+  },
+  {
+    "name": "Briarhill, Galway",
+    "slug": "briarhill-galway",
+    "enabled": true
+  },
+  {
+    "name": "Bridebridge, Cork",
+    "slug": "bridebridge-cork",
+    "enabled": true
+  },
+  {
+    "name": "Brittas, Dublin",
+    "slug": "brittas-dublin",
+    "enabled": true
+  },
+  {
+    "name": "Britway, Cork",
+    "slug": "britway-cork",
+    "enabled": true
+  },
+  {
+    "name": "Brockagh, Galway",
+    "slug": "brockagh-galway",
+    "enabled": true
+  },
+  {
+    "name": "Bullaun, Galway",
+    "slug": "bullaun-galway",
+    "enabled": true
+  },
+  {
+    "name": "Bunnaglass, Galway",
+    "slug": "bunnaglass-galway",
+    "enabled": true
+  },
+  {
+    "name": "Bunnahown, Galway",
+    "slug": "bunnahown-galway",
+    "enabled": true
+  },
+  {
+    "name": "Burnfort, Cork",
+    "slug": "burnfort-cork",
+    "enabled": true
+  },
+  {
+    "name": "Bushy Park, Galway",
+    "slug": "bushy-park-galway",
+    "enabled": true
+  },
+  {
+    "name": "Butlerstown, Cork",
+    "slug": "butlerstown-cork",
+    "enabled": true
+  },
+  {
+    "name": "Buttevant, Cork",
+    "slug": "buttevant-cork",
+    "enabled": true
+  },
+  {
+    "name": "Bweeng, Cork",
+    "slug": "bweeng-cork",
+    "enabled": true
+  },
+  {
+    "name": "Caheragh, Cork",
+    "slug": "caheragh-cork",
+    "enabled": true
+  },
+  {
+    "name": "Caherbarnagh, Cork",
+    "slug": "caherbarnagh-cork",
+    "enabled": true
+  },
+  {
+    "name": "Caherlistrane, Galway",
+    "slug": "caherlistrane-galway",
+    "enabled": true
+  },
+  {
+    "name": "Cahermore, Cork",
+    "slug": "cahermore-cork",
+    "enabled": true
+  },
+  {
+    "name": "Cahermore, Galway",
+    "slug": "cahermore-galway",
+    "enabled": true
+  },
+  {
+    "name": "Caheronaun, Galway",
+    "slug": "caheronaun-galway",
+    "enabled": true
+  },
+  {
+    "name": "Callow, Galway",
+    "slug": "callow-galway",
+    "enabled": true
+  },
+  {
+    "name": "Caltra, Galway",
+    "slug": "caltra-galway",
+    "enabled": true
+  },
+  {
+    "name": "Caltraghlea, Galway",
+    "slug": "caltraghlea-galway",
+    "enabled": true
+  },
+  {
+    "name": "Camus, Galway",
+    "slug": "camus-galway",
+    "enabled": true
+  },
+  {
+    "name": "Cape Clear, Cork",
+    "slug": "cape-clear-cork",
+    "enabled": true
+  },
+  {
+    "name": "Cappagh, Galway",
+    "slug": "cappagh-galway",
+    "enabled": true
+  },
+  {
+    "name": "Cappaghmore, Galway",
+    "slug": "cappaghmore-galway",
+    "enabled": true
+  },
+  {
+    "name": "Cappataggle, Galway",
+    "slug": "cappataggle-galway",
+    "enabled": true
+  },
+  {
+    "name": "Cappeen, Cork",
+    "slug": "cappeen-cork",
+    "enabled": true
+  },
+  {
+    "name": "Carlow (County)",
+    "slug": "carlow",
+    "enabled": true
+  },
+  {
+    "name": "Carna, Galway",
+    "slug": "carna-galway",
+    "enabled": true
+  },
+  {
+    "name": "Carnmore, Galway",
+    "slug": "carnmore-galway",
+    "enabled": true
+  },
+  {
+    "name": "Carnoneen, Galway",
+    "slug": "carnoneen-galway",
+    "enabled": true
+  },
+  {
+    "name": "Carraroe, Galway",
+    "slug": "carraroe-galway",
+    "enabled": true
+  },
+  {
+    "name": "Carrig, Cork",
+    "slug": "carrig-cork",
+    "enabled": true
+  },
+  {
+    "name": "Carrigadrohid, Cork",
+    "slug": "carrigadrohid-cork",
+    "enabled": true
+  },
+  {
+    "name": "Carrigagulla, Cork",
+    "slug": "carrigagulla-cork",
+    "enabled": true
+  },
+  {
+    "name": "Carrigaline, Cork",
+    "slug": "carrigaline-cork",
+    "enabled": true
+  },
+  {
+    "name": "Carrignavar, Cork",
+    "slug": "carrignavar-cork",
+    "enabled": true
+  },
+  {
+    "name": "Carrigrohane, Cork",
+    "slug": "carrigrohane-cork",
+    "enabled": true
+  },
+  {
+    "name": "Carrigtwohill, Cork",
+    "slug": "carrigtwohill-cork",
+    "enabled": true
+  },
+  {
+    "name": "Carrowkeel, Galway",
+    "slug": "carrowkeel-galway",
+    "enabled": true
+  },
+  {
+    "name": "Carrowmore, Galway",
+    "slug": "carrowmore-galway",
+    "enabled": true
+  },
+  {
+    "name": "Carrowmoreknock, Galway",
+    "slug": "carrowmoreknock-galway",
+    "enabled": true
+  },
+  {
+    "name": "Carrowntanlis, Galway",
+    "slug": "carrowntanlis-galway",
+    "enabled": true
+  },
+  {
+    "name": "Casheen, Galway",
+    "slug": "casheen-galway",
+    "enabled": true
+  },
+  {
+    "name": "Cashel, Galway",
+    "slug": "cashel-galway",
+    "enabled": true
+  },
+  {
+    "name": "Cashla, Galway",
+    "slug": "cashla-galway",
+    "enabled": true
+  },
+  {
+    "name": "Casla, Galway",
+    "slug": "casla-galway",
+    "enabled": true
+  },
+  {
+    "name": "Castleblakeney, Galway",
+    "slug": "castleblakeney-galway",
+    "enabled": true
+  },
+  {
+    "name": "Castlecor, Cork",
+    "slug": "castlecor-cork",
+    "enabled": true
+  },
+  {
+    "name": "Castlefreke, Cork",
+    "slug": "castlefreke-cork",
+    "enabled": true
+  },
+  {
+    "name": "Castlegar, Galway",
+    "slug": "castlegar-galway",
+    "enabled": true
+  },
+  {
+    "name": "Castlelyons, Cork",
+    "slug": "castlelyons-cork",
+    "enabled": true
+  },
+  {
+    "name": "Castlemagner, Cork",
+    "slug": "castlemagner-cork",
+    "enabled": true
+  },
+  {
+    "name": "Castlemartyr, Cork",
+    "slug": "castlemartyr-cork",
+    "enabled": true
+  },
+  {
+    "name": "Castletown, Cork",
+    "slug": "castletown-cork",
+    "enabled": true
+  },
+  {
+    "name": "Castletownbere, Cork",
+    "slug": "castletownbere-cork",
+    "enabled": true
+  },
+  {
+    "name": "Castletownroche, Cork",
+    "slug": "castletownroche-cork",
+    "enabled": true
+  },
+  {
+    "name": "Castletownshend, Cork",
+    "slug": "castletownshend-cork",
+    "enabled": true
+  },
+  {
+    "name": "Cavan (County)",
+    "slug": "cavan",
+    "enabled": true
+  },
+  {
+    "name": "Cecilstown, Cork",
+    "slug": "cecilstown-cork",
+    "enabled": true
+  },
+  {
+    "name": "Chapelizod, Dublin",
+    "slug": "chapelizod-dublin",
+    "enabled": true
+  },
+  {
+    "name": "Charleville, Cork",
+    "slug": "charleville-cork",
+    "enabled": true
+  },
+  {
+    "name": "Cherrywood, Dublin",
+    "slug": "cherrywood-dublin",
+    "enabled": true
+  },
+  {
+    "name": "Church Cross, Cork",
+    "slug": "church-cross-cork",
+    "enabled": true
+  },
+  {
+    "name": "Churchfield, Cork",
+    "slug": "churchfield-cork",
+    "enabled": true
+  },
+  {
+    "name": "Churchtown, Cork",
+    "slug": "churchtown-cork",
+    "enabled": true
+  },
+  {
+    "name": "Citywest, Dublin",
+    "slug": "citywest-dublin",
+    "enabled": true
+  },
+  {
+    "name": "Claddagh, Galway",
+    "slug": "claddagh-galway",
+    "enabled": true
+  },
+  {
+    "name": "Claddaghduff, Galway",
+    "slug": "claddaghduff-galway",
+    "enabled": true
+  },
+  {
+    "name": "Clare (County)",
+    "slug": "clare",
+    "enabled": true
+  },
+  {
+    "name": "Claregalway, Galway",
+    "slug": "claregalway-galway",
+    "enabled": true
+  },
+  {
+    "name": "Clarinbridge, Galway",
+    "slug": "clarinbridge-galway",
+    "enabled": true
+  },
+  {
+    "name": "Clash, Cork",
+    "slug": "clash-cork",
+    "enabled": true
+  },
+  {
+    "name": "Cleggan, Galway",
+    "slug": "cleggan-galway",
+    "enabled": true
+  },
+  {
+    "name": "Clennascaul, Galway",
+    "slug": "clennascaul-galway",
+    "enabled": true
+  },
+  {
+    "name": "Clifden, Galway",
+    "slug": "clifden-galway",
+    "enabled": true
+  },
+  {
+    "name": "Cloghaun, Galway",
+    "slug": "cloghaun-galway",
+    "enabled": true
+  },
+  {
+    "name": "Cloghbrack, Galway",
+    "slug": "cloghbrack-galway",
+    "enabled": true
+  },
+  {
+    "name": "Clogheen, Cork",
+    "slug": "clogheen-cork",
+    "enabled": true
+  },
+  {
+    "name": "Clogheenmilcon, Cork",
+    "slug": "clogheenmilcon-cork",
+    "enabled": true
+  },
+  {
+    "name": "Cloghroe, Cork",
+    "slug": "cloghroe-cork",
+    "enabled": true
+  },
+  {
+    "name": "Clonakilty, Cork",
+    "slug": "clonakilty-cork",
+    "enabled": true
+  },
+  {
+    "name": "Clonbern, Galway",
+    "slug": "clonbern-galway",
+    "enabled": true
+  },
+  {
+    "name": "Clonbur, Galway",
+    "slug": "clonbur-galway",
+    "enabled": true
+  },
+  {
+    "name": "Clonburris, Dublin",
+    "slug": "clonburris-dublin",
+    "enabled": true
+  },
+  {
+    "name": "Clondrohid, Cork",
+    "slug": "clondrohid-cork",
+    "enabled": true
+  },
+  {
+    "name": "Clondulane, Cork",
+    "slug": "clondulane-cork",
+    "enabled": true
+  },
+  {
+    "name": "Clonee, Dublin",
+    "slug": "clonee-dublin",
+    "enabled": true
+  },
+  {
+    "name": "Clonfert, Galway",
+    "slug": "clonfert-galway",
+    "enabled": true
+  },
+  {
+    "name": "Clonmult, Cork",
+    "slug": "clonmult-cork",
+    "enabled": true
+  },
+  {
+    "name": "Clonshaugh, Dublin",
+    "slug": "clonshaugh-dublin",
+    "enabled": true
+  },
+  {
+    "name": "Clonsilla, Dublin",
+    "slug": "clonsilla-dublin",
+    "enabled": true
+  },
+  {
+    "name": "Clonskeagh, Dublin",
+    "slug": "clonskeagh-dublin",
+    "enabled": true
+  },
+  {
+    "name": "Cloonboo, Galway",
+    "slug": "cloonboo-galway",
+    "enabled": true
+  },
+  {
+    "name": "Cloonminda, Galway",
+    "slug": "cloonminda-galway",
+    "enabled": true
+  },
+  {
+    "name": "Cloonoon, Galway",
+    "slug": "cloonoon-galway",
+    "enabled": true
+  },
+  {
+    "name": "Cloonymorris, Galway",
+    "slug": "cloonymorris-galway",
+    "enabled": true
+  },
+  {
+    "name": "Cloughduv, Cork",
+    "slug": "cloughduv-cork",
+    "enabled": true
+  },
+  {
+    "name": "Cloverhill, Galway",
+    "slug": "cloverhill-galway",
+    "enabled": true
+  },
+  {
+    "name": "Cloyne, Cork",
+    "slug": "cloyne-cork",
+    "enabled": true
+  },
+  {
+    "name": "Clybaun, Galway",
+    "slug": "clybaun-galway",
+    "enabled": true
+  },
+  {
+    "name": "Coachford, Cork",
+    "slug": "coachford-cork",
+    "enabled": true
+  },
+  {
+    "name": "Cobh, Cork",
+    "slug": "cobh-cork",
+    "enabled": true
+  },
+  {
+    "name": "Coldwood, Galway",
+    "slug": "coldwood-galway",
+    "enabled": true
+  },
+  {
+    "name": "Collinswood, Dublin",
+    "slug": "collinswood-dublin",
+    "enabled": true
+  },
+  {
+    "name": "Colmanstown, Galway",
+    "slug": "colmanstown-galway",
+    "enabled": true
+  },
+  {
+    "name": "Conna, Cork",
+    "slug": "conna-cork",
+    "enabled": true
+  },
+  {
+    "name": "Connemara, Galway",
+    "slug": "connemara-galway",
+    "enabled": true
+  },
+  {
+    "name": "Connonagh, Cork",
+    "slug": "connonagh-cork",
+    "enabled": true
+  },
+  {
+    "name": "Coolagh, Galway",
+    "slug": "coolagh-galway",
+    "enabled": true
+  },
+  {
+    "name": "Coole Abbey, Cork",
+    "slug": "coole-abbey-cork",
+    "enabled": true
+  },
+  {
+    "name": "Coolkelure, Cork",
+    "slug": "coolkelure-cork",
+    "enabled": true
+  },
+  {
+    "name": "Coolmine, Dublin",
+    "slug": "coolmine-dublin",
+    "enabled": true
+  },
+  {
+    "name": "Coolyduff, Cork",
+    "slug": "coolyduff-cork",
+    "enabled": true
+  },
+  {
+    "name": "Coolymurraghue, Cork",
+    "slug": "coolymurraghue-cork",
+    "enabled": true
+  },
+  {
+    "name": "Coomhola, Cork",
+    "slug": "coomhola-cork",
+    "enabled": true
+  },
+  {
+    "name": "Corbally, Cork",
+    "slug": "corbally-cork",
+    "enabled": true
+  },
+  {
+    "name": "Corcullen, Galway",
+    "slug": "corcullen-galway",
+    "enabled": true
+  },
+  {
+    "name": "Corduff, Dublin",
+    "slug": "corduff-dublin",
+    "enabled": true
+  },
+  {
+    "name": "Cork City Suburbs, Cork",
+    "slug": "cork-city-suburbs-cork",
+    "enabled": true
+  },
+  {
+    "name": "Cornamona, Galway",
+    "slug": "cornamona-galway",
+    "enabled": true
+  },
+  {
+    "name": "Cornelscourt, Dublin",
+    "slug": "cornelscourt-dublin",
+    "enabled": true
+  },
+  {
+    "name": "Corofin, Galway",
+    "slug": "corofin-galway",
+    "enabled": true
+  },
+  {
+    "name": "Corrandulla, Galway",
+    "slug": "corrandulla-galway",
+    "enabled": true
+  },
+  {
+    "name": "Cortoon, Galway",
+    "slug": "cortoon-galway",
+    "enabled": true
+  },
+  {
+    "name": "Costello, Galway",
+    "slug": "costello-galway",
+    "enabled": true
+  },
+  {
+    "name": "Courtmacsherry, Cork",
+    "slug": "courtmacsherry-cork",
+    "enabled": true
+  },
+  {
+    "name": "Craughwell, Galway",
+    "slug": "craughwell-galway",
+    "enabled": true
+  },
+  {
+    "name": "Creggs, Galway",
+    "slug": "creggs-galway",
+    "enabled": true
+  },
+  {
+    "name": "Cregmore, Galway",
+    "slug": "cregmore-galway",
+    "enabled": true
+  },
+  {
+    "name": "Crookhaven, Cork",
+    "slug": "crookhaven-cork",
+    "enabled": true
+  },
+  {
+    "name": "Crookstown, Cork",
+    "slug": "crookstown-cork",
+    "enabled": true
+  },
+  {
+    "name": "Crossbarry, Cork",
+    "slug": "crossbarry-cork",
+    "enabled": true
+  },
+  {
+    "name": "Crossconnell, Galway",
+    "slug": "crossconnell-galway",
+    "enabled": true
+  },
+  {
+    "name": "Crosshaven, Cork",
+    "slug": "crosshaven-cork",
+    "enabled": true
+  },
+  {
+    "name": "Crosswell, Galway",
+    "slug": "crosswell-galway",
+    "enabled": true
+  },
+  {
+    "name": "Crumlin, Galway",
+    "slug": "crumlin-galway",
+    "enabled": true
+  },
+  {
+    "name": "Cullen, Cork",
+    "slug": "cullen-cork",
+    "enabled": true
+  },
+  {
+    "name": "Currabinny, Cork",
+    "slug": "currabinny-cork",
+    "enabled": true
+  },
+  {
+    "name": "Curragh West, Galway",
+    "slug": "curragh-west-galway",
+    "enabled": true
+  },
+  {
+    "name": "Curraglass, Cork",
+    "slug": "curraglass-cork",
+    "enabled": true
+  },
+  {
+    "name": "Curraheen, Cork",
+    "slug": "curraheen-cork",
+    "enabled": true
+  },
+  {
+    "name": "Curraun, Galway",
+    "slug": "curraun-galway",
+    "enabled": true
+  },
+  {
+    "name": "Curryglass, Cork",
+    "slug": "curryglass-cork",
+    "enabled": true
+  },
+  {
+    "name": "Cusduff, Cork",
+    "slug": "cusduff-cork",
+    "enabled": true
+  },
+  {
+    "name": "Dalkey, Dublin",
+    "slug": "dalkey-dublin",
+    "enabled": true
+  },
+  {
+    "name": "Dalystown, Galway",
+    "slug": "dalystown-galway",
+    "enabled": true
+  },
+  {
+    "name": "Damastown, Dublin",
+    "slug": "damastown-dublin",
+    "enabled": true
+  },
+  {
+    "name": "Dangan, Cork",
+    "slug": "dangan-cork",
+    "enabled": true
+  },
+  {
+    "name": "Dangan, Galway",
+    "slug": "dangan-galway",
+    "enabled": true
+  },
+  {
+    "name": "Darndale, Dublin",
+    "slug": "darndale-dublin",
+    "enabled": true
+  },
+  {
+    "name": "Dartry, Dublin",
+    "slug": "dartry-dublin",
+    "enabled": true
+  },
+  {
+    "name": "Dawros, Galway",
+    "slug": "dawros-galway",
+    "enabled": true
+  },
+  {
+    "name": "Deansgrange, Dublin",
+    "slug": "deansgrange-dublin",
+    "enabled": true
+  },
+  {
+    "name": "Deelish, Cork",
+    "slug": "deelish-cork",
+    "enabled": true
+  },
+  {
+    "name": "Dernagree, Cork",
+    "slug": "dernagree-cork",
+    "enabled": true
+  },
+  {
+    "name": "Derreeny, Cork",
+    "slug": "derreeny-cork",
+    "enabled": true
+  },
+  {
+    "name": "Derrybrien, Galway",
+    "slug": "derrybrien-galway",
+    "enabled": true
+  },
+  {
+    "name": "Derryerglinna, Galway",
+    "slug": "derryerglinna-galway",
+    "enabled": true
+  },
+  {
+    "name": "Derrygoolin, Galway",
+    "slug": "derrygoolin-galway",
+    "enabled": true
+  },
+  {
+    "name": "Derrylea, Galway",
+    "slug": "derrylea-galway",
+    "enabled": true
+  },
+  {
+    "name": "Derrynabrin, Galway",
+    "slug": "derrynabrin-galway",
+    "enabled": true
+  },
+  {
+    "name": "Derryneen, Galway",
+    "slug": "derryneen-galway",
+    "enabled": true
+  },
+  {
+    "name": "Derryrush, Galway",
+    "slug": "derryrush-galway",
+    "enabled": true
+  },
+  {
+    "name": "Derrywode, Galway",
+    "slug": "derrywode-galway",
+    "enabled": true
+  },
+  {
+    "name": "Dillons Cross, Cork",
+    "slug": "dillons-cross-cork",
+    "enabled": true
+  },
+  {
+    "name": "Dollymount, Dublin",
+    "slug": "dollymount-dublin",
+    "enabled": true
+  },
+  {
+    "name": "Donabate, Dublin",
+    "slug": "donabate-dublin",
+    "enabled": true
+  },
+  {
+    "name": "Donaghmede, Dublin",
+    "slug": "donaghmede-dublin",
+    "enabled": true
+  },
+  {
+    "name": "Donegal (County)",
+    "slug": "donegal",
+    "enabled": true
+  },
+  {
+    "name": "Doneraile, Cork",
+    "slug": "doneraile-cork",
+    "enabled": true
+  },
+  {
+    "name": "Donnybrook, Cork",
+    "slug": "donnybrook-cork",
+    "enabled": true
+  },
+  {
+    "name": "Donnycarney, Dublin",
+    "slug": "donnycarney-dublin",
+    "enabled": true
+  },
+  {
+    "name": "Donoughmore, Cork",
+    "slug": "donoughmore-cork",
+    "enabled": true
+  },
+  {
+    "name": "Doon, Galway",
+    "slug": "doon-galway",
+    "enabled": true
+  },
+  {
+    "name": "Doonloughan, Galway",
+    "slug": "doonloughan-galway",
+    "enabled": true
+  },
+  {
+    "name": "Dough, Cork",
+    "slug": "dough-cork",
+    "enabled": true
+  },
+  {
+    "name": "Doughcloyne, Cork",
+    "slug": "doughcloyne-cork",
+    "enabled": true
+  },
+  {
+    "name": "Doughiska, Galway",
+    "slug": "doughiska-galway",
+    "enabled": true
+  },
+  {
+    "name": "Douglas, Cork",
+    "slug": "douglas-cork",
+    "enabled": true
+  },
+  {
+    "name": "Drimoleague, Cork",
+    "slug": "drimoleague-cork",
+    "enabled": true
+  },
+  {
+    "name": "Drinagh, Cork",
+    "slug": "drinagh-cork",
+    "enabled": true
+  },
+  {
+    "name": "Dripsey, Cork",
+    "slug": "dripsey-cork",
+    "enabled": true
+  },
+  {
+    "name": "Dromahane, Cork",
+    "slug": "dromahane-cork",
+    "enabled": true
+  },
+  {
+    "name": "Dromasmole, Cork",
+    "slug": "dromasmole-cork",
+    "enabled": true
+  },
+  {
+    "name": "Dromin, Cork",
+    "slug": "dromin-cork",
+    "enabled": true
+  },
+  {
+    "name": "Dromina, Cork",
+    "slug": "dromina-cork",
+    "enabled": true
+  },
+  {
+    "name": "Drum East, Galway",
+    "slug": "drum-east-galway",
+    "enabled": true
+  },
+  {
+    "name": "Drum West, Galway",
+    "slug": "drum-west-galway",
+    "enabled": true
+  },
+  {
+    "name": "Drumatober, Galway",
+    "slug": "drumatober-galway",
+    "enabled": true
+  },
+  {
+    "name": "Drumkeary, Galway",
+    "slug": "drumkeary-galway",
+    "enabled": true
+  },
+  {
+    "name": "Dublin 1, Dublin",
+    "slug": "dublin-1-dublin",
+    "enabled": true
+  },
+  {
+    "name": "Dublin 10, Dublin",
+    "slug": "dublin-10-dublin",
+    "enabled": true
+  },
+  {
+    "name": "Dublin 11, Dublin",
+    "slug": "dublin-11-dublin",
+    "enabled": true
+  },
+  {
+    "name": "Dublin 12, Dublin",
+    "slug": "dublin-12-dublin",
+    "enabled": true
+  },
+  {
+    "name": "Dublin 13, Dublin",
+    "slug": "dublin-13-dublin",
+    "enabled": true
+  },
+  {
+    "name": "Dublin 14, Dublin",
+    "slug": "dublin-14-dublin",
+    "enabled": true
+  },
+  {
+    "name": "Dublin 15, Dublin",
+    "slug": "dublin-15-dublin",
+    "enabled": true
+  },
+  {
+    "name": "Dublin 16, Dublin",
+    "slug": "dublin-16-dublin",
+    "enabled": true
+  },
+  {
+    "name": "Dublin 17, Dublin",
+    "slug": "dublin-17-dublin",
+    "enabled": true
+  },
+  {
+    "name": "Dublin 18, Dublin",
+    "slug": "dublin-18-dublin",
+    "enabled": true
+  },
+  {
+    "name": "Dublin 2, Dublin",
+    "slug": "dublin-2-dublin",
+    "enabled": true
+  },
+  {
+    "name": "Dublin 20, Dublin",
+    "slug": "dublin-20-dublin",
+    "enabled": true
+  },
+  {
+    "name": "Dublin 22, Dublin",
+    "slug": "dublin-22-dublin",
+    "enabled": true
+  },
+  {
+    "name": "Dublin 24, Dublin",
+    "slug": "dublin-24-dublin",
+    "enabled": true
+  },
+  {
+    "name": "Dublin 3, Dublin",
+    "slug": "dublin-3-dublin",
+    "enabled": true
+  },
+  {
+    "name": "Dublin 4, Dublin",
+    "slug": "dublin-4-dublin",
+    "enabled": true
+  },
+  {
+    "name": "Dublin 5, Dublin",
+    "slug": "dublin-5-dublin",
+    "enabled": true
+  },
+  {
+    "name": "Dublin 6, Dublin",
+    "slug": "dublin-6-dublin",
+    "enabled": true
+  },
+  {
+    "name": "Dublin 6W, Dublin",
+    "slug": "dublin-6w-dublin",
+    "enabled": true
+  },
+  {
+    "name": "Dublin 7, Dublin",
+    "slug": "dublin-7-dublin",
+    "enabled": true
+  },
+  {
+    "name": "Dublin 8, Dublin",
+    "slug": "dublin-8-dublin",
+    "enabled": true
+  },
+  {
+    "name": "Dublin 9, Dublin",
+    "slug": "dublin-9-dublin",
+    "enabled": true
+  },
+  {
+    "name": "Dublin Pike, Cork",
+    "slug": "dublin-pike-cork",
+    "enabled": true
+  },
+  {
+    "name": "Dun Laoghaire, Dublin",
+    "slug": "dun-laoghaire-dublin",
+    "enabled": true
+  },
+  {
+    "name": "Dunderrow, Cork",
+    "slug": "dunderrow-cork",
+    "enabled": true
+  },
+  {
+    "name": "Dungourney, Cork",
+    "slug": "dungourney-cork",
+    "enabled": true
+  },
+  {
+    "name": "Duniry, Galway",
+    "slug": "duniry-galway",
+    "enabled": true
+  },
+  {
+    "name": "Dunmanus, Cork",
+    "slug": "dunmanus-cork",
+    "enabled": true
+  },
+  {
+    "name": "Dunmanway, Cork",
+    "slug": "dunmanway-cork",
+    "enabled": true
+  },
+  {
+    "name": "Dunmore, Galway",
+    "slug": "dunmore-galway",
+    "enabled": true
+  },
+  {
+    "name": "Dunworly, Cork",
+    "slug": "dunworly-cork",
+    "enabled": true
+  },
+  {
+    "name": "Durrus, Cork",
+    "slug": "durrus-cork",
+    "enabled": true
+  },
+  {
+    "name": "East Cork, Cork",
+    "slug": "east-cork-cork",
+    "enabled": true
+  },
+  {
+    "name": "East Ferry, Cork",
+    "slug": "east-ferry-cork",
+    "enabled": true
+  },
+  {
+    "name": "Edenmore, Dublin",
+    "slug": "edenmore-dublin",
+    "enabled": true
+  },
+  {
+    "name": "Edmondstown, Dublin",
+    "slug": "edmondstown-dublin",
+    "enabled": true
+  },
+  {
+    "name": "Enniskeane, Cork",
+    "slug": "enniskeane-cork",
+    "enabled": true
+  },
+  {
+    "name": "Errislannan, Galway",
+    "slug": "errislannan-galway",
+    "enabled": true
+  },
+  {
+    "name": "Esker, Galway",
+    "slug": "esker-galway",
+    "enabled": true
+  },
+  {
+    "name": "Eyeries, Cork",
+    "slug": "eyeries-cork",
+    "enabled": true
+  },
+  {
+    "name": "Eyrecourt, Galway",
+    "slug": "eyrecourt-galway",
+    "enabled": true
+  },
+  {
+    "name": "Fahy, Galway",
+    "slug": "fahy-galway",
+    "enabled": true
+  },
+  {
+    "name": "Fairhill, Cork",
+    "slug": "fairhill-cork",
+    "enabled": true
+  },
+  {
+    "name": "Farahy, Cork",
+    "slug": "farahy-cork",
+    "enabled": true
+  },
+  {
+    "name": "Farmers Cross, Cork",
+    "slug": "farmers-cross-cork",
+    "enabled": true
+  },
+  {
+    "name": "Farnanes, Cork",
+    "slug": "farnanes-cork",
+    "enabled": true
+  },
+  {
+    "name": "Farran, Cork",
+    "slug": "farran-cork",
+    "enabled": true
+  },
+  {
+    "name": "Farranree, Cork",
+    "slug": "farranree-cork",
+    "enabled": true
+  },
+  {
+    "name": "Fermoy, Cork",
+    "slug": "fermoy-cork",
+    "enabled": true
+  },
+  {
+    "name": "Finnisglin, Galway",
+    "slug": "finnisglin-galway",
+    "enabled": true
+  },
+  {
+    "name": "Firhouse, Dublin",
+    "slug": "firhouse-dublin",
+    "enabled": true
+  },
+  {
+    "name": "Firkeel, Cork",
+    "slug": "firkeel-cork",
+    "enabled": true
+  },
+  {
+    "name": "Fivemilebridge, Cork",
+    "slug": "fivemilebridge-cork",
+    "enabled": true
+  },
+  {
+    "name": "Fota, Cork",
+    "slug": "fota-cork",
+    "enabled": true
+  },
+  {
+    "name": "Fountainstown, Cork",
+    "slug": "fountainstown-cork",
+    "enabled": true
+  },
+  {
+    "name": "Foxhall, Galway",
+    "slug": "foxhall-galway",
+    "enabled": true
+  },
+  {
+    "name": "Foxrock, Dublin",
+    "slug": "foxrock-dublin",
+    "enabled": true
+  },
+  {
+    "name": "Frankfield, Cork",
+    "slug": "frankfield-cork",
+    "enabled": true
+  },
+  {
+    "name": "Freemount, Cork",
+    "slug": "freemount-cork",
+    "enabled": true
+  },
+  {
+    "name": "Funshin More, Galway",
+    "slug": "funshin-more-galway",
+    "enabled": true
+  },
+  {
+    "name": "Furbo, Galway",
+    "slug": "furbo-galway",
+    "enabled": true
+  },
+  {
+    "name": "Galloping Green, Dublin",
+    "slug": "galloping-green-dublin",
+    "enabled": true
+  },
+  {
+    "name": "Galway City Suburbs, Galway",
+    "slug": "galway-city-suburbs-galway",
+    "enabled": true
+  },
+  {
+    "name": "Garbally, Galway",
+    "slug": "garbally-galway",
+    "enabled": true
+  },
+  {
+    "name": "Garrane, Cork",
+    "slug": "garrane-cork",
+    "enabled": true
+  },
+  {
+    "name": "Garraun, Galway",
+    "slug": "garraun-galway",
+    "enabled": true
+  },
+  {
+    "name": "Garravagh, Cork",
+    "slug": "garravagh-cork",
+    "enabled": true
+  },
+  {
+    "name": "Garrettstown, Cork",
+    "slug": "garrettstown-cork",
+    "enabled": true
+  },
+  {
+    "name": "Garristown, Dublin",
+    "slug": "garristown-dublin",
+    "enabled": true
+  },
+  {
+    "name": "Garryvoe, Cork",
+    "slug": "garryvoe-cork",
+    "enabled": true
+  },
+  {
+    "name": "Gawsworth, Cork",
+    "slug": "gawsworth-cork",
+    "enabled": true
+  },
+  {
+    "name": "Gerahies, Cork",
+    "slug": "gerahies-cork",
+    "enabled": true
+  },
+  {
+    "name": "Glandore, Cork",
+    "slug": "glandore-cork",
+    "enabled": true
+  },
+  {
+    "name": "Glanmire, Cork",
+    "slug": "glanmire-cork",
+    "enabled": true
+  },
+  {
+    "name": "Glantane, Cork",
+    "slug": "glantane-cork",
+    "enabled": true
+  },
+  {
+    "name": "Glanworth, Cork",
+    "slug": "glanworth-cork",
+    "enabled": true
+  },
+  {
+    "name": "Glasheen, Cork",
+    "slug": "glasheen-cork",
+    "enabled": true
+  },
+  {
+    "name": "Glasthule, Dublin",
+    "slug": "glasthule-dublin",
+    "enabled": true
+  },
+  {
+    "name": "Glenageary, Dublin",
+    "slug": "glenageary-dublin",
+    "enabled": true
+  },
+  {
+    "name": "Glenamaddy, Galway",
+    "slug": "glenamaddy-galway",
+    "enabled": true
+  },
+  {
+    "name": "Glenasmole, Dublin",
+    "slug": "glenasmole-dublin",
+    "enabled": true
+  },
+  {
+    "name": "Glenbrook, Cork",
+    "slug": "glenbrook-cork",
+    "enabled": true
+  },
+  {
+    "name": "Glencullen, Dublin",
+    "slug": "glencullen-dublin",
+    "enabled": true
+  },
+  {
+    "name": "Glengarriff, Cork",
+    "slug": "glengarriff-cork",
+    "enabled": true
+  },
+  {
+    "name": "Glennagevlagh, Galway",
+    "slug": "glennagevlagh-galway",
+    "enabled": true
+  },
+  {
+    "name": "Glentane, Galway",
+    "slug": "glentane-galway",
+    "enabled": true
+  },
+  {
+    "name": "Glentrasna, Galway",
+    "slug": "glentrasna-galway",
+    "enabled": true
+  },
+  {
+    "name": "Glenville, Cork",
+    "slug": "glenville-cork",
+    "enabled": true
+  },
+  {
+    "name": "Glinsk, Galway",
+    "slug": "glinsk-galway",
+    "enabled": true
+  },
+  {
+    "name": "Glounthaune, Cork",
+    "slug": "glounthaune-cork",
+    "enabled": true
+  },
+  {
+    "name": "Goleen, Cork",
+    "slug": "goleen-cork",
+    "enabled": true
+  },
+  {
+    "name": "Gort, Galway",
+    "slug": "gort-galway",
+    "enabled": true
+  },
+  {
+    "name": "Gortaleam, Galway",
+    "slug": "gortaleam-galway",
+    "enabled": true
+  },
+  {
+    "name": "Gortaroo, Cork",
+    "slug": "gortaroo-cork",
+    "enabled": true
+  },
+  {
+    "name": "Gortatleva, Galway",
+    "slug": "gortatleva-galway",
+    "enabled": true
+  },
+  {
+    "name": "Gorteeny, Galway",
+    "slug": "gorteeny-galway",
+    "enabled": true
+  },
+  {
+    "name": "Gortgarriff, Cork",
+    "slug": "gortgarriff-cork",
+    "enabled": true
+  },
+  {
+    "name": "Gortmore, Galway",
+    "slug": "gortmore-galway",
+    "enabled": true
+  },
+  {
+    "name": "Gortnadeeve, Galway",
+    "slug": "gortnadeeve-galway",
+    "enabled": true
+  },
+  {
+    "name": "Gortymadden, Galway",
+    "slug": "gortymadden-galway",
+    "enabled": true
+  },
+  {
+    "name": "Gouladoo, Cork",
+    "slug": "gouladoo-cork",
+    "enabled": true
+  },
+  {
+    "name": "Gowla, Galway",
+    "slug": "gowla-galway",
+    "enabled": true
+  },
+  {
+    "name": "Gowlaun, Galway",
+    "slug": "gowlaun-galway",
+    "enabled": true
+  },
+  {
+    "name": "Grange Castle, Dublin",
+    "slug": "grange-castle-dublin",
+    "enabled": true
+  },
+  {
+    "name": "Grange, Cork",
+    "slug": "grange-cork",
+    "enabled": true
+  },
+  {
+    "name": "Grannagh, Galway",
+    "slug": "grannagh-galway",
+    "enabled": true
+  },
+  {
+    "name": "Greenfield, Cork",
+    "slug": "greenfield-cork",
+    "enabled": true
+  },
+  {
+    "name": "Greenfield, Galway",
+    "slug": "greenfield-galway",
+    "enabled": true
+  },
+  {
+    "name": "Grenagh, Cork",
+    "slug": "grenagh-cork",
+    "enabled": true
+  },
+  {
+    "name": "Gurranabraher, Cork",
+    "slug": "gurranabraher-cork",
+    "enabled": true
+  },
+  {
+    "name": "Gurteen, Galway",
+    "slug": "gurteen-galway",
+    "enabled": true
+  },
+  {
+    "name": "Gyleen, Cork",
+    "slug": "gyleen-cork",
+    "enabled": true
+  },
+  {
+    "name": "Halfway, Cork",
+    "slug": "halfway-cork",
+    "enabled": true
+  },
+  {
+    "name": "Hartstown, Dublin",
+    "slug": "hartstown-dublin",
+    "enabled": true
+  },
+  {
+    "name": "Headford Road, Galway",
+    "slug": "headford-road-galway",
+    "enabled": true
+  },
+  {
+    "name": "Headford, Galway",
+    "slug": "headford-galway",
+    "enabled": true
+  },
+  {
+    "name": "Heir Island, Cork",
+    "slug": "heir-island-cork",
+    "enabled": true
+  },
+  {
+    "name": "Hollyhill, Cork",
+    "slug": "hollyhill-cork",
+    "enabled": true
+  },
+  {
+    "name": "Hollystown, Dublin",
+    "slug": "hollystown-dublin",
+    "enabled": true
+  },
+  {
+    "name": "Howth, Dublin",
+    "slug": "howth-dublin",
+    "enabled": true
+  },
+  {
+    "name": "Huntstown, Dublin",
+    "slug": "huntstown-dublin",
+    "enabled": true
+  },
+  {
+    "name": "Inch, Cork",
+    "slug": "inch-cork",
+    "enabled": true
+  },
+  {
+    "name": "Inchigeelagh, Cork",
+    "slug": "inchigeelagh-cork",
+    "enabled": true
+  },
+  {
+    "name": "Inishbofin Island, Galway",
+    "slug": "inishbofin-island-galway",
+    "enabled": true
+  },
+  {
+    "name": "Inishcarra, Cork",
+    "slug": "inishcarra-cork",
+    "enabled": true
+  },
+  {
+    "name": "Inisheer, Galway",
+    "slug": "inisheer-galway",
+    "enabled": true
+  },
+  {
+    "name": "Inishmaan, Galway",
+    "slug": "inishmaan-galway",
+    "enabled": true
+  },
+  {
+    "name": "Inishmore, Galway",
+    "slug": "inishmore-galway",
+    "enabled": true
+  },
+  {
+    "name": "Inniscarra, Cork",
+    "slug": "inniscarra-cork",
+    "enabled": true
+  },
+  {
+    "name": "Innishannon, Cork",
+    "slug": "innishannon-cork",
+    "enabled": true
+  },
+  {
+    "name": "Inverin, Galway",
+    "slug": "inverin-galway",
+    "enabled": true
+  },
+  {
+    "name": "Islandbridge, Dublin",
+    "slug": "islandbridge-dublin",
+    "enabled": true
+  },
+  {
+    "name": "Jobstown, Dublin",
+    "slug": "jobstown-dublin",
+    "enabled": true
+  },
+  {
+    "name": "Jordan's Island, Galway",
+    "slug": "jordan-s-island-galway",
+    "enabled": true
+  },
+  {
+    "name": "Kanturk, Cork",
+    "slug": "kanturk-cork",
+    "enabled": true
+  },
+  {
+    "name": "Kealkill, Cork",
+    "slug": "kealkill-cork",
+    "enabled": true
+  },
+  {
+    "name": "Keeagh, Galway",
+    "slug": "keeagh-galway",
+    "enabled": true
+  },
+  {
+    "name": "Keeloges, Galway",
+    "slug": "keeloges-galway",
+    "enabled": true
+  },
+  {
+    "name": "Keeraun, Galway",
+    "slug": "keeraun-galway",
+    "enabled": true
+  },
+  {
+    "name": "Keeraunnagark, Galway",
+    "slug": "keeraunnagark-galway",
+    "enabled": true
+  },
+  {
+    "name": "Kellysgrove, Galway",
+    "slug": "kellysgrove-galway",
+    "enabled": true
+  },
+  {
+    "name": "Kentfield, Galway",
+    "slug": "kentfield-galway",
+    "enabled": true
+  },
+  {
+    "name": "Kerry (County)",
+    "slug": "kerry",
+    "enabled": true
+  },
+  {
+    "name": "Kerry Pike, Cork",
+    "slug": "kerry-pike-cork",
+    "enabled": true
+  },
+  {
+    "name": "Kilbannon, Galway",
+    "slug": "kilbannon-galway",
+    "enabled": true
+  },
+  {
+    "name": "Kilbarrack, Dublin",
+    "slug": "kilbarrack-dublin",
+    "enabled": true
+  },
+  {
+    "name": "Kilbarry, Cork",
+    "slug": "kilbarry-cork",
+    "enabled": true
+  },
+  {
+    "name": "Kilbeacanty, Galway",
+    "slug": "kilbeacanty-galway",
+    "enabled": true
+  },
+  {
+    "name": "Kilbrickan, Galway",
+    "slug": "kilbrickan-galway",
+    "enabled": true
+  },
+  {
+    "name": "Kilbrin, Cork",
+    "slug": "kilbrin-cork",
+    "enabled": true
+  },
+  {
+    "name": "Kilbrittain, Cork",
+    "slug": "kilbrittain-cork",
+    "enabled": true
+  },
+  {
+    "name": "Kilcaimin, Galway",
+    "slug": "kilcaimin-galway",
+    "enabled": true
+  },
+  {
+    "name": "Kilcarbery, Dublin",
+    "slug": "kilcarbery-dublin",
+    "enabled": true
+  },
+  {
+    "name": "Kilchreest, Galway",
+    "slug": "kilchreest-galway",
+    "enabled": true
+  },
+  {
+    "name": "Kilcolgan, Galway",
+    "slug": "kilcolgan-galway",
+    "enabled": true
+  },
+  {
+    "name": "Kilcolman, Cork",
+    "slug": "kilcolman-cork",
+    "enabled": true
+  },
+  {
+    "name": "Kilconieron, Galway",
+    "slug": "kilconieron-galway",
+    "enabled": true
+  },
+  {
+    "name": "Kilconly, Galway",
+    "slug": "kilconly-galway",
+    "enabled": true
+  },
+  {
+    "name": "Kilconnel, Galway",
+    "slug": "kilconnel-galway",
+    "enabled": true
+  },
+  {
+    "name": "Kilcredan, Cork",
+    "slug": "kilcredan-cork",
+    "enabled": true
+  },
+  {
+    "name": "Kilcrohane, Cork",
+    "slug": "kilcrohane-cork",
+    "enabled": true
+  },
+  {
+    "name": "Kilcully, Cork",
+    "slug": "kilcully-cork",
+    "enabled": true
+  },
+  {
+    "name": "Kildare (County)",
+    "slug": "kildare",
+    "enabled": true
+  },
+  {
+    "name": "Kildinan, Cork",
+    "slug": "kildinan-cork",
+    "enabled": true
+  },
+  {
+    "name": "Kildorrery, Cork",
+    "slug": "kildorrery-cork",
+    "enabled": true
+  },
+  {
+    "name": "Kileeneenmore, Galway",
+    "slug": "kileeneenmore-galway",
+    "enabled": true
+  },
+  {
+    "name": "Kilglass, Galway",
+    "slug": "kilglass-galway",
+    "enabled": true
+  },
+  {
+    "name": "Kilkenny (County)",
+    "slug": "kilkenny",
+    "enabled": true
+  },
+  {
+    "name": "Kilkerrin, Galway",
+    "slug": "kilkerrin-galway",
+    "enabled": true
+  },
+  {
+    "name": "Kilkieran, Galway",
+    "slug": "kilkieran-galway",
+    "enabled": true
+  },
+  {
+    "name": "Kill O' The Grange, Dublin",
+    "slug": "kill-o-the-grange-dublin",
+    "enabled": true
+  },
+  {
+    "name": "Killaclug, Cork",
+    "slug": "killaclug-cork",
+    "enabled": true
+  },
+  {
+    "name": "Killafeen, Galway",
+    "slug": "killafeen-galway",
+    "enabled": true
+  },
+  {
+    "name": "Killakee, Dublin",
+    "slug": "killakee-dublin",
+    "enabled": true
+  },
+  {
+    "name": "Killarone, Galway",
+    "slug": "killarone-galway",
+    "enabled": true
+  },
+  {
+    "name": "Killavullen, Cork",
+    "slug": "killavullen-cork",
+    "enabled": true
+  },
+  {
+    "name": "Killeagh, Cork",
+    "slug": "killeagh-cork",
+    "enabled": true
+  },
+  {
+    "name": "Killeany, Galway",
+    "slug": "killeany-galway",
+    "enabled": true
+  },
+  {
+    "name": "Killeen, Galway",
+    "slug": "killeen-galway",
+    "enabled": true
+  },
+  {
+    "name": "Killeenaran, Galway",
+    "slug": "killeenaran-galway",
+    "enabled": true
+  },
+  {
+    "name": "Killeens, Cork",
+    "slug": "killeens-cork",
+    "enabled": true
+  },
+  {
+    "name": "Killester, Dublin",
+    "slug": "killester-dublin",
+    "enabled": true
+  },
+  {
+    "name": "Killimor, Galway",
+    "slug": "killimor-galway",
+    "enabled": true
+  },
+  {
+    "name": "Killiney, Dublin",
+    "slug": "killiney-dublin",
+    "enabled": true
+  },
+  {
+    "name": "Killinny, Galway",
+    "slug": "killinny-galway",
+    "enabled": true
+  },
+  {
+    "name": "Killoran, Galway",
+    "slug": "killoran-galway",
+    "enabled": true
+  },
+  {
+    "name": "Killoscobe, Galway",
+    "slug": "killoscobe-galway",
+    "enabled": true
+  },
+  {
+    "name": "Killumney, Cork",
+    "slug": "killumney-cork",
+    "enabled": true
+  },
+  {
+    "name": "Kilmacud, Dublin",
+    "slug": "kilmacud-dublin",
+    "enabled": true
+  },
+  {
+    "name": "Kilmeelickin, Galway",
+    "slug": "kilmeelickin-galway",
+    "enabled": true
+  },
+  {
+    "name": "Kilmichael, Cork",
+    "slug": "kilmichael-cork",
+    "enabled": true
+  },
+  {
+    "name": "Kilmona, Cork",
+    "slug": "kilmona-cork",
+    "enabled": true
+  },
+  {
+    "name": "Kilmoon, Cork",
+    "slug": "kilmoon-cork",
+    "enabled": true
+  },
+  {
+    "name": "Kilmore, Dublin",
+    "slug": "kilmore-dublin",
+    "enabled": true
+  },
+  {
+    "name": "Kilmurry, Cork",
+    "slug": "kilmurry-cork",
+    "enabled": true
+  },
+  {
+    "name": "Kilmurvy, Galway",
+    "slug": "kilmurvy-galway",
+    "enabled": true
+  },
+  {
+    "name": "Kilnalag, Galway",
+    "slug": "kilnalag-galway",
+    "enabled": true
+  },
+  {
+    "name": "Kilnamanagh, Dublin",
+    "slug": "kilnamanagh-dublin",
+    "enabled": true
+  },
+  {
+    "name": "Kilnap, Cork",
+    "slug": "kilnap-cork",
+    "enabled": true
+  },
+  {
+    "name": "Kilpatrick, Cork",
+    "slug": "kilpatrick-cork",
+    "enabled": true
+  },
+  {
+    "name": "Kilreekil, Galway",
+    "slug": "kilreekil-galway",
+    "enabled": true
+  },
+  {
+    "name": "Kilronan, Galway",
+    "slug": "kilronan-galway",
+    "enabled": true
+  },
+  {
+    "name": "Kilsallagh, Galway",
+    "slug": "kilsallagh-galway",
+    "enabled": true
+  },
+  {
+    "name": "Kilsallaghan, Dublin",
+    "slug": "kilsallaghan-dublin",
+    "enabled": true
+  },
+  {
+    "name": "Kiltipper, Dublin",
+    "slug": "kiltipper-dublin",
+    "enabled": true
+  },
+  {
+    "name": "Kiltormer, Galway",
+    "slug": "kiltormer-galway",
+    "enabled": true
+  },
+  {
+    "name": "Kiltullagh, Galway",
+    "slug": "kiltullagh-galway",
+    "enabled": true
+  },
+  {
+    "name": "Kilworth Camp, Cork",
+    "slug": "kilworth-camp-cork",
+    "enabled": true
+  },
+  {
+    "name": "Kilworth, Cork",
+    "slug": "kilworth-cork",
+    "enabled": true
+  },
+  {
+    "name": "Kingston, Galway",
+    "slug": "kingston-galway",
+    "enabled": true
+  },
+  {
+    "name": "Kingstown, Galway",
+    "slug": "kingstown-galway",
+    "enabled": true
+  },
+  {
+    "name": "Kingswood, Dublin",
+    "slug": "kingswood-dublin",
+    "enabled": true
+  },
+  {
+    "name": "Kinsale, Cork",
+    "slug": "kinsale-cork",
+    "enabled": true
+  },
+  {
+    "name": "Kinsealy, Dublin",
+    "slug": "kinsealy-dublin",
+    "enabled": true
+  },
+  {
+    "name": "Kinvara, Galway",
+    "slug": "kinvara-galway",
+    "enabled": true
+  },
+  {
+    "name": "Kishkeam, Cork",
+    "slug": "kishkeam-cork",
+    "enabled": true
+  },
+  {
+    "name": "Kitconnell, Galway",
+    "slug": "kitconnell-galway",
+    "enabled": true
+  },
+  {
+    "name": "Knockanevin, Cork",
+    "slug": "knockanevin-cork",
+    "enabled": true
+  },
+  {
+    "name": "Knockaunalour, Cork",
+    "slug": "knockaunalour-cork",
+    "enabled": true
+  },
+  {
+    "name": "Knockburden, Cork",
+    "slug": "knockburden-cork",
+    "enabled": true
+  },
+  {
+    "name": "Knockferry, Galway",
+    "slug": "knockferry-galway",
+    "enabled": true
+  },
+  {
+    "name": "Knocklyon, Dublin",
+    "slug": "knocklyon-dublin",
+    "enabled": true
+  },
+  {
+    "name": "Knockmourne, Cork",
+    "slug": "knockmourne-cork",
+    "enabled": true
+  },
+  {
+    "name": "Knocknacarra, Galway",
+    "slug": "knocknacarra-galway",
+    "enabled": true
+  },
+  {
+    "name": "Knocknagree, Cork",
+    "slug": "knocknagree-cork",
+    "enabled": true
+  },
+  {
+    "name": "Knocknaheeny, Cork",
+    "slug": "knocknaheeny-cork",
+    "enabled": true
+  },
+  {
+    "name": "Knocknahilan, Cork",
+    "slug": "knocknahilan-cork",
+    "enabled": true
+  },
+  {
+    "name": "Knockraha, Cork",
+    "slug": "knockraha-cork",
+    "enabled": true
+  },
+  {
+    "name": "Knocks, Cork",
+    "slug": "knocks-cork",
+    "enabled": true
+  },
+  {
+    "name": "Knockskagh, Cork",
+    "slug": "knockskagh-cork",
+    "enabled": true
+  },
+  {
+    "name": "Knuttery, Cork",
+    "slug": "knuttery-cork",
+    "enabled": true
+  },
+  {
+    "name": "Kylebrack, Galway",
+    "slug": "kylebrack-galway",
+    "enabled": true
+  },
+  {
+    "name": "Kylemore, Galway",
+    "slug": "kylemore-galway",
+    "enabled": true
+  },
+  {
+    "name": "Kylesalia, Galway",
+    "slug": "kylesalia-galway",
+    "enabled": true
+  },
+  {
+    "name": "Laban, Galway",
+    "slug": "laban-galway",
+    "enabled": true
+  },
+  {
+    "name": "Lackagh, Galway",
+    "slug": "lackagh-galway",
+    "enabled": true
+  },
+  {
+    "name": "Lackareagh, Cork",
+    "slug": "lackareagh-cork",
+    "enabled": true
+  },
+  {
+    "name": "Lackenshoneen, Cork",
+    "slug": "lackenshoneen-cork",
+    "enabled": true
+  },
+  {
+    "name": "Ladysbridge, Cork",
+    "slug": "ladysbridge-cork",
+    "enabled": true
+  },
+  {
+    "name": "Laois (County)",
+    "slug": "laois",
+    "enabled": true
+  },
+  {
+    "name": "Laughanstown, Dublin",
+    "slug": "laughanstown-dublin",
+    "enabled": true
+  },
+  {
+    "name": "Laurencetown, Galway",
+    "slug": "laurencetown-galway",
+    "enabled": true
+  },
+  {
+    "name": "Lavally, Galway",
+    "slug": "lavally-galway",
+    "enabled": true
+  },
+  {
+    "name": "Leamlara, Cork",
+    "slug": "leamlara-cork",
+    "enabled": true
+  },
+  {
+    "name": "Leap, Cork",
+    "slug": "leap-cork",
+    "enabled": true
+  },
+  {
+    "name": "Leenane, Galway",
+    "slug": "leenane-galway",
+    "enabled": true
+  },
+  {
+    "name": "Lehenaghbeg, Cork",
+    "slug": "lehenaghbeg-cork",
+    "enabled": true
+  },
+  {
+    "name": "Lehenaghmore, Cork",
+    "slug": "lehenaghmore-cork",
+    "enabled": true
+  },
+  {
+    "name": "Leitrim (County)",
+    "slug": "leitrim",
+    "enabled": true
+  },
+  {
+    "name": "Lenaboy, Galway",
+    "slug": "lenaboy-galway",
+    "enabled": true
+  },
+  {
+    "name": "Letteragh, Galway",
+    "slug": "letteragh-galway",
+    "enabled": true
+  },
+  {
+    "name": "Lettercallow, Galway",
+    "slug": "lettercallow-galway",
+    "enabled": true
+  },
+  {
+    "name": "Letterfrack, Galway",
+    "slug": "letterfrack-galway",
+    "enabled": true
+  },
+  {
+    "name": "Lettermore, Galway",
+    "slug": "lettermore-galway",
+    "enabled": true
+  },
+  {
+    "name": "Lettermullan, Galway",
+    "slug": "lettermullan-galway",
+    "enabled": true
+  },
+  {
+    "name": "Limerick (County)",
+    "slug": "limerick",
+    "enabled": true
+  },
+  {
+    "name": "Liscarrol, Cork",
+    "slug": "liscarrol-cork",
+    "enabled": true
+  },
+  {
+    "name": "Lisgoold, Cork",
+    "slug": "lisgoold-cork",
+    "enabled": true
+  },
+  {
+    "name": "Lisheenakeeran, Galway",
+    "slug": "lisheenakeeran-galway",
+    "enabled": true
+  },
+  {
+    "name": "Lispatrick, Cork",
+    "slug": "lispatrick-cork",
+    "enabled": true
+  },
+  {
+    "name": "Lissamona, Cork",
+    "slug": "lissamona-cork",
+    "enabled": true
+  },
+  {
+    "name": "Lissarda, Cork",
+    "slug": "lissarda-cork",
+    "enabled": true
+  },
+  {
+    "name": "Lissavaird, Cork",
+    "slug": "lissavaird-cork",
+    "enabled": true
+  },
+  {
+    "name": "Little Island, Cork",
+    "slug": "little-island-cork",
+    "enabled": true
+  },
+  {
+    "name": "Lombardstown, Cork",
+    "slug": "lombardstown-cork",
+    "enabled": true
+  },
+  {
+    "name": "Longford (County)",
+    "slug": "longford",
+    "enabled": true
+  },
+  {
+    "name": "Lota, Cork",
+    "slug": "lota-cork",
+    "enabled": true
+  },
+  {
+    "name": "Loughlinstown, Dublin",
+    "slug": "loughlinstown-dublin",
+    "enabled": true
+  },
+  {
+    "name": "Loughrea, Galway",
+    "slug": "loughrea-galway",
+    "enabled": true
+  },
+  {
+    "name": "Loughshinny, Dublin",
+    "slug": "loughshinny-dublin",
+    "enabled": true
+  },
+  {
+    "name": "Louth (County)",
+    "slug": "louth",
+    "enabled": true
+  },
+  {
+    "name": "Lowertown, Cork",
+    "slug": "lowertown-cork",
+    "enabled": true
+  },
+  {
+    "name": "Lucan, Dublin",
+    "slug": "lucan-dublin",
+    "enabled": true
+  },
+  {
+    "name": "Lusk, Dublin",
+    "slug": "lusk-dublin",
+    "enabled": true
+  },
+  {
+    "name": "Lyre, Cork",
+    "slug": "lyre-cork",
+    "enabled": true
+  },
+  {
+    "name": "Maam Cross, Galway",
+    "slug": "maam-cross-galway",
+    "enabled": true
+  },
+  {
+    "name": "Macroom, Cork",
+    "slug": "macroom-cork",
+    "enabled": true
+  },
+  {
+    "name": "Maglin, Cork",
+    "slug": "maglin-cork",
+    "enabled": true
+  },
+  {
+    "name": "Mahon, Cork",
+    "slug": "mahon-cork",
+    "enabled": true
+  },
+  {
+    "name": "Malahide, Dublin",
+    "slug": "malahide-dublin",
+    "enabled": true
+  },
+  {
+    "name": "Mallow, Cork",
+    "slug": "mallow-cork",
+    "enabled": true
+  },
+  {
+    "name": "Marino, Dublin",
+    "slug": "marino-dublin",
+    "enabled": true
+  },
+  {
+    "name": "Matehy, Cork",
+    "slug": "matehy-cork",
+    "enabled": true
+  },
+  {
+    "name": "Maum, Galway",
+    "slug": "maum-galway",
+    "enabled": true
+  },
+  {
+    "name": "Mayfield, Cork",
+    "slug": "mayfield-cork",
+    "enabled": true
+  },
+  {
+    "name": "Mayo (County)",
+    "slug": "mayo",
+    "enabled": true
+  },
+  {
+    "name": "Meath (County)",
+    "slug": "meath",
+    "enabled": true
+  },
+  {
+    "name": "Meelick, Galway",
+    "slug": "meelick-galway",
+    "enabled": true
+  },
+  {
+    "name": "Meelin, Cork",
+    "slug": "meelin-cork",
+    "enabled": true
+  },
+  {
+    "name": "Menlo, Galway",
+    "slug": "menlo-galway",
+    "enabled": true
+  },
+  {
+    "name": "Menlough, Galway",
+    "slug": "menlough-galway",
+    "enabled": true
+  },
+  {
+    "name": "Merlin Park, Galway",
+    "slug": "merlin-park-galway",
+    "enabled": true
+  },
+  {
+    "name": "Merlin, Galway",
+    "slug": "merlin-galway",
+    "enabled": true
+  },
+  {
+    "name": "Merrion, Dublin",
+    "slug": "merrion-dublin",
+    "enabled": true
+  },
+  {
+    "name": "Mervue, Galway",
+    "slug": "mervue-galway",
+    "enabled": true
+  },
+  {
+    "name": "Midleton, Cork",
+    "slug": "midleton-cork",
+    "enabled": true
+  },
+  {
+    "name": "Milford, Cork",
+    "slug": "milford-cork",
+    "enabled": true
+  },
+  {
+    "name": "Milleen, Cork",
+    "slug": "milleen-cork",
+    "enabled": true
+  },
+  {
+    "name": "Millstreet, Cork",
+    "slug": "millstreet-cork",
+    "enabled": true
+  },
+  {
+    "name": "Milltown, Dublin",
+    "slug": "milltown-dublin",
+    "enabled": true
+  },
+  {
+    "name": "Milltown, Galway",
+    "slug": "milltown-galway",
+    "enabled": true
+  },
+  {
+    "name": "Minane Bridge, Cork",
+    "slug": "minane-bridge-cork",
+    "enabled": true
+  },
+  {
+    "name": "Mitchelstown, Cork",
+    "slug": "mitchelstown-cork",
+    "enabled": true
+  },
+  {
+    "name": "Model Farm Road, Cork",
+    "slug": "model-farm-road-cork",
+    "enabled": true
+  },
+  {
+    "name": "Model Village, Cork",
+    "slug": "model-village-cork",
+    "enabled": true
+  },
+  {
+    "name": "Mogeely, Cork",
+    "slug": "mogeely-cork",
+    "enabled": true
+  },
+  {
+    "name": "Monaghan (County)",
+    "slug": "monaghan",
+    "enabled": true
+  },
+  {
+    "name": "Monard, Cork",
+    "slug": "monard-cork",
+    "enabled": true
+  },
+  {
+    "name": "Moneen, Galway",
+    "slug": "moneen-galway",
+    "enabled": true
+  },
+  {
+    "name": "Moneyflugh, Cork",
+    "slug": "moneyflugh-cork",
+    "enabled": true
+  },
+  {
+    "name": "Monivea, Galway",
+    "slug": "monivea-galway",
+    "enabled": true
+  },
+  {
+    "name": "Monkstown, Cork",
+    "slug": "monkstown-cork",
+    "enabled": true
+  },
+  {
+    "name": "Monkstown, Dublin",
+    "slug": "monkstown-dublin",
+    "enabled": true
+  },
+  {
+    "name": "Montenotte, Cork",
+    "slug": "montenotte-cork",
+    "enabled": true
+  },
+  {
+    "name": "Mount Uniacke, Cork",
+    "slug": "mount-uniacke-cork",
+    "enabled": true
+  },
+  {
+    "name": "Mountbellew, Galway",
+    "slug": "mountbellew-galway",
+    "enabled": true
+  },
+  {
+    "name": "Mourn Abbey, Cork",
+    "slug": "mourn-abbey-cork",
+    "enabled": true
+  },
+  {
+    "name": "Mourneabbey, Cork",
+    "slug": "mourneabbey-cork",
+    "enabled": true
+  },
+  {
+    "name": "Moyard, Galway",
+    "slug": "moyard-galway",
+    "enabled": true
+  },
+  {
+    "name": "Moycullen, Galway",
+    "slug": "moycullen-galway",
+    "enabled": true
+  },
+  {
+    "name": "Moyglass, Galway",
+    "slug": "moyglass-galway",
+    "enabled": true
+  },
+  {
+    "name": "Moylough, Galway",
+    "slug": "moylough-galway",
+    "enabled": true
+  },
+  {
+    "name": "Moyrus, Galway",
+    "slug": "moyrus-galway",
+    "enabled": true
+  },
+  {
+    "name": "Moyvoon, Galway",
+    "slug": "moyvoon-galway",
+    "enabled": true
+  },
+  {
+    "name": "Mulhuddart, Dublin",
+    "slug": "mulhuddart-dublin",
+    "enabled": true
+  },
+  {
+    "name": "Mullagh, Galway",
+    "slug": "mullagh-galway",
+    "enabled": true
+  },
+  {
+    "name": "Murroogh, Galway",
+    "slug": "murroogh-galway",
+    "enabled": true
+  },
+  {
+    "name": "Myrtleville, Cork",
+    "slug": "myrtleville-cork",
+    "enabled": true
+  },
+  {
+    "name": "Nad, Cork",
+    "slug": "nad-cork",
+    "enabled": true
+  },
+  {
+    "name": "Naul, Dublin",
+    "slug": "naul-dublin",
+    "enabled": true
+  },
+  {
+    "name": "New Inn, Galway",
+    "slug": "new-inn-galway",
+    "enabled": true
+  },
+  {
+    "name": "Newbridge, Galway",
+    "slug": "newbridge-galway",
+    "enabled": true
+  },
+  {
+    "name": "Newcastle, Dublin",
+    "slug": "newcastle-dublin",
+    "enabled": true
+  },
+  {
+    "name": "Newcastle, Galway",
+    "slug": "newcastle-galway",
+    "enabled": true
+  },
+  {
+    "name": "Newcestown, Cork",
+    "slug": "newcestown-cork",
+    "enabled": true
+  },
+  {
+    "name": "Newmarket, Cork",
+    "slug": "newmarket-cork",
+    "enabled": true
+  },
+  {
+    "name": "Newtown, Cork",
+    "slug": "newtown-cork",
+    "enabled": true
+  },
+  {
+    "name": "Newtown, Galway",
+    "slug": "newtown-galway",
+    "enabled": true
+  },
+  {
+    "name": "Newtownlynch, Galway",
+    "slug": "newtownlynch-galway",
+    "enabled": true
+  },
+  {
+    "name": "Newtownshandrum, Cork",
+    "slug": "newtownshandrum-cork",
+    "enabled": true
+  },
+  {
+    "name": "Newtwopothouse, Cork",
+    "slug": "newtwopothouse-cork",
+    "enabled": true
+  },
+  {
+    "name": "Nohoval, Cork",
+    "slug": "nohoval-cork",
+    "enabled": true
+  },
+  {
+    "name": "North Ring, Cork",
+    "slug": "north-ring-cork",
+    "enabled": true
+  },
+  {
+    "name": "Nun's Island, Galway",
+    "slug": "nun-s-island-galway",
+    "enabled": true
+  },
+  {
+    "name": "Oatquarter, Galway",
+    "slug": "oatquarter-galway",
+    "enabled": true
+  },
+  {
+    "name": "Offaly (County)",
+    "slug": "offaly",
+    "enabled": true
+  },
+  {
+    "name": "Oghil, Galway",
+    "slug": "oghil-galway",
+    "enabled": true
+  },
+  {
+    "name": "Old Connaught, Dublin",
+    "slug": "old-connaught-dublin",
+    "enabled": true
+  },
+  {
+    "name": "Old Court, Cork",
+    "slug": "old-court-cork",
+    "enabled": true
+  },
+  {
+    "name": "Old Head, Cork",
+    "slug": "old-head-cork",
+    "enabled": true
+  },
+  {
+    "name": "Old Twopoldouse, Cork",
+    "slug": "old-twopoldouse-cork",
+    "enabled": true
+  },
+  {
+    "name": "Oldbawn, Dublin",
+    "slug": "oldbawn-dublin",
+    "enabled": true
+  },
+  {
+    "name": "Oldtown, Dublin",
+    "slug": "oldtown-dublin",
+    "enabled": true
+  },
+  {
+    "name": "Onaght, Galway",
+    "slug": "onaght-galway",
+    "enabled": true
+  },
+  {
+    "name": "Ongar, Dublin",
+    "slug": "ongar-dublin",
+    "enabled": true
+  },
+  {
+    "name": "Oranhill, Galway",
+    "slug": "oranhill-galway",
+    "enabled": true
+  },
+  {
+    "name": "Oranmore, Galway",
+    "slug": "oranmore-galway",
+    "enabled": true
+  },
+  {
+    "name": "Oughterard, Galway",
+    "slug": "oughterard-galway",
+    "enabled": true
+  },
+  {
+    "name": "Ovens, Cork",
+    "slug": "ovens-cork",
+    "enabled": true
+  },
+  {
+    "name": "Owenbristy, Galway",
+    "slug": "owenbristy-galway",
+    "enabled": true
+  },
+  {
+    "name": "Ower, Galway",
+    "slug": "ower-galway",
+    "enabled": true
+  },
+  {
+    "name": "Ownahincha, Cork",
+    "slug": "ownahincha-cork",
+    "enabled": true
+  },
+  {
+    "name": "Oysterhaven, Cork",
+    "slug": "oysterhaven-cork",
+    "enabled": true
+  },
+  {
+    "name": "Palmerstown, Dublin",
+    "slug": "palmerstown-dublin",
+    "enabled": true
+  },
+  {
+    "name": "Parkmore, Galway",
+    "slug": "parkmore-galway",
+    "enabled": true
+  },
+  {
+    "name": "Passage West, Cork",
+    "slug": "passage-west-cork",
+    "enabled": true
+  },
+  {
+    "name": "Peake, Cork",
+    "slug": "peake-cork",
+    "enabled": true
+  },
+  {
+    "name": "Peterswell, Galway",
+    "slug": "peterswell-galway",
+    "enabled": true
+  },
+  {
+    "name": "Pollnarooma, Galway",
+    "slug": "pollnarooma-galway",
+    "enabled": true
+  },
+  {
+    "name": "Pollshask, Galway",
+    "slug": "pollshask-galway",
+    "enabled": true
+  },
+  {
+    "name": "Poppintree, Dublin",
+    "slug": "poppintree-dublin",
+    "enabled": true
+  },
+  {
+    "name": "Portmarnock, Dublin",
+    "slug": "portmarnock-dublin",
+    "enabled": true
+  },
+  {
+    "name": "Portrane, Dublin",
+    "slug": "portrane-dublin",
+    "enabled": true
+  },
+  {
+    "name": "Portumna, Galway",
+    "slug": "portumna-galway",
+    "enabled": true
+  },
+  {
+    "name": "Pouladuff, Cork",
+    "slug": "pouladuff-cork",
+    "enabled": true
+  },
+  {
+    "name": "Power's Cross, Galway",
+    "slug": "power-s-cross-galway",
+    "enabled": true
+  },
+  {
+    "name": "Priorswood, Dublin",
+    "slug": "priorswood-dublin",
+    "enabled": true
+  },
+  {
+    "name": "Raheen, Cork",
+    "slug": "raheen-cork",
+    "enabled": true
+  },
+  {
+    "name": "Rahoon, Galway",
+    "slug": "rahoon-galway",
+    "enabled": true
+  },
+  {
+    "name": "Raigh, Galway",
+    "slug": "raigh-galway",
+    "enabled": true
+  },
+  {
+    "name": "Rath Luirc, Cork",
+    "slug": "rath-luirc-cork",
+    "enabled": true
+  },
+  {
+    "name": "Rathcool, Cork",
+    "slug": "rathcool-cork",
+    "enabled": true
+  },
+  {
+    "name": "Rathcoole, Dublin",
+    "slug": "rathcoole-dublin",
+    "enabled": true
+  },
+  {
+    "name": "Rathcormac, Cork",
+    "slug": "rathcormac-cork",
+    "enabled": true
+  },
+  {
+    "name": "Rathduff, Cork",
+    "slug": "rathduff-cork",
+    "enabled": true
+  },
+  {
+    "name": "Rathfarnham, Dublin",
+    "slug": "rathfarnham-dublin",
+    "enabled": true
+  },
+  {
+    "name": "Rathmacullig, Cork",
+    "slug": "rathmacullig-cork",
+    "enabled": true
+  },
+  {
+    "name": "Rathmichael, Dublin",
+    "slug": "rathmichael-dublin",
+    "enabled": true
+  },
+  {
+    "name": "Rathpeacon, Cork",
+    "slug": "rathpeacon-cork",
+    "enabled": true
+  },
+  {
+    "name": "Reananeree, Cork",
+    "slug": "reananeree-cork",
+    "enabled": true
+  },
+  {
+    "name": "Reanascreena, Cork",
+    "slug": "reanascreena-cork",
+    "enabled": true
+  },
+  {
+    "name": "Recess, Galway",
+    "slug": "recess-galway",
+    "enabled": true
+  },
+  {
+    "name": "Renmore, Galway",
+    "slug": "renmore-galway",
+    "enabled": true
+  },
+  {
+    "name": "Renvyle, Galway",
+    "slug": "renvyle-galway",
+    "enabled": true
+  },
+  {
+    "name": "Rerrin, Cork",
+    "slug": "rerrin-cork",
+    "enabled": true
+  },
+  {
+    "name": "Ringaskiddy, Cork",
+    "slug": "ringaskiddy-cork",
+    "enabled": true
+  },
+  {
+    "name": "Rinneen, Cork",
+    "slug": "rinneen-cork",
+    "enabled": true
+  },
+  {
+    "name": "Rinville, Galway",
+    "slug": "rinville-galway",
+    "enabled": true
+  },
+  {
+    "name": "Riverstick, Cork",
+    "slug": "riverstick-cork",
+    "enabled": true
+  },
+  {
+    "name": "Riverstown, Cork",
+    "slug": "riverstown-cork",
+    "enabled": true
+  },
+  {
+    "name": "Rochestown, Cork",
+    "slug": "rochestown-cork",
+    "enabled": true
+  },
+  {
+    "name": "Rockbrook, Dublin",
+    "slug": "rockbrook-dublin",
+    "enabled": true
+  },
+  {
+    "name": "Rockchapel, Cork",
+    "slug": "rockchapel-cork",
+    "enabled": true
+  },
+  {
+    "name": "Rockmills, Cork",
+    "slug": "rockmills-cork",
+    "enabled": true
+  },
+  {
+    "name": "Rolestown, Dublin",
+    "slug": "rolestown-dublin",
+    "enabled": true
+  },
+  {
+    "name": "Ronanstown, Dublin",
+    "slug": "ronanstown-dublin",
+    "enabled": true
+  },
+  {
+    "name": "Rooaun, Galway",
+    "slug": "rooaun-galway",
+    "enabled": true
+  },
+  {
+    "name": "Roscam, Galway",
+    "slug": "roscam-galway",
+    "enabled": true
+  },
+  {
+    "name": "Roscommon (County)",
+    "slug": "roscommon",
+    "enabled": true
+  },
+  {
+    "name": "Rosmuc, Galway",
+    "slug": "rosmuc-galway",
+    "enabled": true
+  },
+  {
+    "name": "Rossaveel, Galway",
+    "slug": "rossaveel-galway",
+    "enabled": true
+  },
+  {
+    "name": "Rossbrin, Cork",
+    "slug": "rossbrin-cork",
+    "enabled": true
+  },
+  {
+    "name": "Rosscahill, Galway",
+    "slug": "rosscahill-galway",
+    "enabled": true
+  },
+  {
+    "name": "Rosscarbery, Cork",
+    "slug": "rosscarbery-cork",
+    "enabled": true
+  },
+  {
+    "name": "Rosshill, Galway",
+    "slug": "rosshill-galway",
+    "enabled": true
+  },
+  {
+    "name": "Rossmore, Cork",
+    "slug": "rossmore-cork",
+    "enabled": true
+  },
+  {
+    "name": "Rostellan, Cork",
+    "slug": "rostellan-cork",
+    "enabled": true
+  },
+  {
+    "name": "Roundstone, Galway",
+    "slug": "roundstone-galway",
+    "enabled": true
+  },
+  {
+    "name": "Royal Canal Park, Dublin",
+    "slug": "royal-canal-park-dublin",
+    "enabled": true
+  },
+  {
+    "name": "Rush, Dublin",
+    "slug": "rush-dublin",
+    "enabled": true
+  },
+  {
+    "name": "Ryehill, Galway",
+    "slug": "ryehill-galway",
+    "enabled": true
+  },
+  {
+    "name": "Rylane Cross, Cork",
+    "slug": "rylane-cross-cork",
+    "enabled": true
+  },
+  {
+    "name": "Rylane, Cork",
+    "slug": "rylane-cork",
+    "enabled": true
+  },
+  {
+    "name": "Saggart, Dublin",
+    "slug": "saggart-dublin",
+    "enabled": true
+  },
+  {
+    "name": "Saleen, Cork",
+    "slug": "saleen-cork",
+    "enabled": true
+  },
+  {
+    "name": "Sallybrook, Cork",
+    "slug": "sallybrook-cork",
+    "enabled": true
+  },
+  {
+    "name": "Sallynoggin, Dublin",
+    "slug": "sallynoggin-dublin",
+    "enabled": true
+  },
+  {
+    "name": "Salrock, Galway",
+    "slug": "salrock-galway",
+    "enabled": true
+  },
+  {
+    "name": "Salthill, Galway",
+    "slug": "salthill-galway",
+    "enabled": true
+  },
+  {
+    "name": "Sandycove, Dublin",
+    "slug": "sandycove-dublin",
+    "enabled": true
+  },
+  {
+    "name": "Sandyhill, Dublin",
+    "slug": "sandyhill-dublin",
+    "enabled": true
+  },
+  {
+    "name": "Schull, Cork",
+    "slug": "schull-cork",
+    "enabled": true
+  },
+  {
+    "name": "Screebe, Galway",
+    "slug": "screebe-galway",
+    "enabled": true
+  },
+  {
+    "name": "Seven Mills, Dublin",
+    "slug": "seven-mills-dublin",
+    "enabled": true
+  },
+  {
+    "name": "Shanagarry, Cork",
+    "slug": "shanagarry-cork",
+    "enabled": true
+  },
+  {
+    "name": "Shanaglish, Galway",
+    "slug": "shanaglish-galway",
+    "enabled": true
+  },
+  {
+    "name": "Shanakiel, Cork",
+    "slug": "shanakiel-cork",
+    "enabled": true
+  },
+  {
+    "name": "Shanballard, Galway",
+    "slug": "shanballard-galway",
+    "enabled": true
+  },
+  {
+    "name": "Shanbally, Cork",
+    "slug": "shanbally-cork",
+    "enabled": true
+  },
+  {
+    "name": "Shanbally, Galway",
+    "slug": "shanbally-galway",
+    "enabled": true
+  },
+  {
+    "name": "Shanballymore, Cork",
+    "slug": "shanballymore-cork",
+    "enabled": true
+  },
+  {
+    "name": "Shankill, Dublin",
+    "slug": "shankill-dublin",
+    "enabled": true
+  },
+  {
+    "name": "Shanlaragh, Cork",
+    "slug": "shanlaragh-cork",
+    "enabled": true
+  },
+  {
+    "name": "Shantalla, Galway",
+    "slug": "shantalla-galway",
+    "enabled": true
+  },
+  {
+    "name": "Sherkin Island, Cork",
+    "slug": "sherkin-island-cork",
+    "enabled": true
+  },
+  {
+    "name": "Shrule, Galway",
+    "slug": "shrule-galway",
+    "enabled": true
+  },
+  {
+    "name": "Silversprings, Cork",
+    "slug": "silversprings-cork",
+    "enabled": true
+  },
+  {
+    "name": "Skehana, Galway",
+    "slug": "skehana-galway",
+    "enabled": true
+  },
+  {
+    "name": "Skehanagh, Galway",
+    "slug": "skehanagh-galway",
+    "enabled": true
+  },
+  {
+    "name": "Skerries, Dublin",
+    "slug": "skerries-dublin",
+    "enabled": true
+  },
+  {
+    "name": "Skibbereen, Cork",
+    "slug": "skibbereen-cork",
+    "enabled": true
+  },
+  {
+    "name": "Slievemurry, Galway",
+    "slug": "slievemurry-galway",
+    "enabled": true
+  },
+  {
+    "name": "Sligo (County)",
+    "slug": "sligo",
+    "enabled": true
+  },
+  {
+    "name": "Snave, Cork",
+    "slug": "snave-cork",
+    "enabled": true
+  },
+  {
+    "name": "Spiddal, Galway",
+    "slug": "spiddal-galway",
+    "enabled": true
+  },
+  {
+    "name": "Springmount, Cork",
+    "slug": "springmount-cork",
+    "enabled": true
+  },
+  {
+    "name": "St. Lukes, Cork",
+    "slug": "st-lukes-cork",
+    "enabled": true
+  },
+  {
+    "name": "Starch Hill, Cork",
+    "slug": "starch-hill-cork",
+    "enabled": true
+  },
+  {
+    "name": "Stepaside, Dublin",
+    "slug": "stepaside-dublin",
+    "enabled": true
+  },
+  {
+    "name": "Stickstown, Cork",
+    "slug": "stickstown-cork",
+    "enabled": true
+  },
+  {
+    "name": "Stillorgan, Dublin",
+    "slug": "stillorgan-dublin",
+    "enabled": true
+  },
+  {
+    "name": "Streamstown, Galway",
+    "slug": "streamstown-galway",
+    "enabled": true
+  },
+  {
+    "name": "Summercove, Cork",
+    "slug": "summercove-cork",
+    "enabled": true
+  },
+  {
+    "name": "Sunday's Well, Cork",
+    "slug": "sunday-s-well-cork",
+    "enabled": true
+  },
+  {
+    "name": "Swords, Dublin",
+    "slug": "swords-dublin",
+    "enabled": true
+  },
+  {
+    "name": "Tarvara, Cork",
+    "slug": "tarvara-cork",
+    "enabled": true
+  },
+  {
+    "name": "Taur, Cork",
+    "slug": "taur-cork",
+    "enabled": true
+  },
+  {
+    "name": "Tawin, Galway",
+    "slug": "tawin-galway",
+    "enabled": true
+  },
+  {
+    "name": "Taylor's Hill, Galway",
+    "slug": "taylor-s-hill-galway",
+    "enabled": true
+  },
+  {
+    "name": "Teeranea, Galway",
+    "slug": "teeranea-galway",
+    "enabled": true
+  },
+  {
+    "name": "Teerelton, Cork",
+    "slug": "teerelton-cork",
+    "enabled": true
+  },
+  {
+    "name": "Teernakill, Galway",
+    "slug": "teernakill-galway",
+    "enabled": true
+  },
+  {
+    "name": "Templehill, Cork",
+    "slug": "templehill-cork",
+    "enabled": true
+  },
+  {
+    "name": "Templemartin, Cork",
+    "slug": "templemartin-cork",
+    "enabled": true
+  },
+  {
+    "name": "Terryland, Galway",
+    "slug": "terryland-galway",
+    "enabled": true
+  },
+  {
+    "name": "The Coombe, Dublin",
+    "slug": "the-coombe-dublin",
+    "enabled": true
+  },
+  {
+    "name": "The Five Roads, Dublin",
+    "slug": "the-five-roads-dublin",
+    "enabled": true
+  },
+  {
+    "name": "The Lough, Cork",
+    "slug": "the-lough-cork",
+    "enabled": true
+  },
+  {
+    "name": "The Ward, Dublin",
+    "slug": "the-ward-dublin",
+    "enabled": true
+  },
+  {
+    "name": "Ticknock, Dublin",
+    "slug": "ticknock-dublin",
+    "enabled": true
+  },
+  {
+    "name": "Timoleague, Cork",
+    "slug": "timoleague-cork",
+    "enabled": true
+  },
+  {
+    "name": "Tipperary (County)",
+    "slug": "tipperary",
+    "enabled": true
+  },
+  {
+    "name": "Tirellan, Galway",
+    "slug": "tirellan-galway",
+    "enabled": true
+  },
+  {
+    "name": "Tirneevin, Galway",
+    "slug": "tirneevin-galway",
+    "enabled": true
+  },
+  {
+    "name": "Tivoli, Cork",
+    "slug": "tivoli-cork",
+    "enabled": true
+  },
+  {
+    "name": "Toames, Cork",
+    "slug": "toames-cork",
+    "enabled": true
+  },
+  {
+    "name": "Togher (Cork City), Cork",
+    "slug": "togher-cork-city-cork",
+    "enabled": true
+  },
+  {
+    "name": "Togher, Cork",
+    "slug": "togher-cork",
+    "enabled": true
+  },
+  {
+    "name": "Tonabrocky, Galway",
+    "slug": "tonabrocky-galway",
+    "enabled": true
+  },
+  {
+    "name": "Tonacurragh, Galway",
+    "slug": "tonacurragh-galway",
+    "enabled": true
+  },
+  {
+    "name": "Toomard, Galway",
+    "slug": "toomard-galway",
+    "enabled": true
+  },
+  {
+    "name": "Toombeola, Galway",
+    "slug": "toombeola-galway",
+    "enabled": true
+  },
+  {
+    "name": "Toormore, Cork",
+    "slug": "toormore-cork",
+    "enabled": true
+  },
+  {
+    "name": "Tower, Cork",
+    "slug": "tower-cork",
+    "enabled": true
+  },
+  {
+    "name": "Townparks, Galway",
+    "slug": "townparks-galway",
+    "enabled": true
+  },
+  {
+    "name": "Tracton, Cork",
+    "slug": "tracton-cork",
+    "enabled": true
+  },
+  {
+    "name": "Trafrask, Cork",
+    "slug": "trafrask-cork",
+    "enabled": true
+  },
+  {
+    "name": "Tragumna, Cork",
+    "slug": "tragumna-cork",
+    "enabled": true
+  },
+  {
+    "name": "Trust, Galway",
+    "slug": "trust-galway",
+    "enabled": true
+  },
+  {
+    "name": "Tuam Road, Galway",
+    "slug": "tuam-road-galway",
+    "enabled": true
+  },
+  {
+    "name": "Tuam, Galway",
+    "slug": "tuam-galway",
+    "enabled": true
+  },
+  {
+    "name": "Tubber, Galway",
+    "slug": "tubber-galway",
+    "enabled": true
+  },
+  {
+    "name": "Tullokyne, Galway",
+    "slug": "tullokyne-galway",
+    "enabled": true
+  },
+  {
+    "name": "Tully Cross, Galway",
+    "slug": "tully-cross-galway",
+    "enabled": true
+  },
+  {
+    "name": "Tullylease, Cork",
+    "slug": "tullylease-cork",
+    "enabled": true
+  },
+  {
+    "name": "Turloughmore, Galway",
+    "slug": "turloughmore-galway",
+    "enabled": true
+  },
+  {
+    "name": "Turners Cross, Cork",
+    "slug": "turners-cross-cork",
+    "enabled": true
+  },
+  {
+    "name": "Twomileditch, Galway",
+    "slug": "twomileditch-galway",
+    "enabled": true
+  },
+  {
+    "name": "Tynagh, Galway",
+    "slug": "tynagh-galway",
+    "enabled": true
+  },
+  {
+    "name": "Union Hall, Cork",
+    "slug": "union-hall-cork",
+    "enabled": true
+  },
+  {
+    "name": "Vicarstown, Cork",
+    "slug": "vicarstown-cork",
+    "enabled": true
+  },
+  {
+    "name": "Victoria Cross, Cork",
+    "slug": "victoria-cross-cork",
+    "enabled": true
+  },
+  {
+    "name": "Walshtown, Cork",
+    "slug": "walshtown-cork",
+    "enabled": true
+  },
+  {
+    "name": "Ward, Dublin",
+    "slug": "ward-dublin",
+    "enabled": true
+  },
+  {
+    "name": "Waterfall, Cork",
+    "slug": "waterfall-cork",
+    "enabled": true
+  },
+  {
+    "name": "Waterford (County)",
+    "slug": "waterford",
+    "enabled": true
+  },
+  {
+    "name": "Watergrasshill, Cork",
+    "slug": "watergrasshill-cork",
+    "enabled": true
+  },
+  {
+    "name": "Wellpark, Galway",
+    "slug": "wellpark-galway",
+    "enabled": true
+  },
+  {
+    "name": "West Cork, Cork",
+    "slug": "west-cork-cork",
+    "enabled": true
+  },
+  {
+    "name": "Western Road, Cork",
+    "slug": "western-road-cork",
+    "enabled": true
+  },
+  {
+    "name": "Westmeath (County)",
+    "slug": "westmeath",
+    "enabled": true
+  },
+  {
+    "name": "Wexford (County)",
+    "slug": "wexford",
+    "enabled": true
+  },
+  {
+    "name": "White's Cross, Cork",
+    "slug": "white-s-cross-cork",
+    "enabled": true
+  },
+  {
+    "name": "Whitechurch, Cork",
+    "slug": "whitechurch-cork",
+    "enabled": true
+  },
+  {
+    "name": "Whitegate, Cork",
+    "slug": "whitegate-cork",
+    "enabled": true
+  },
+  {
+    "name": "Wicklow (County)",
+    "slug": "wicklow",
+    "enabled": true
+  },
+  {
+    "name": "Willbrook, Dublin",
+    "slug": "willbrook-dublin",
+    "enabled": true
+  },
+  {
+    "name": "Williamstown, Galway",
+    "slug": "williamstown-galway",
+    "enabled": true
+  },
+  {
+    "name": "Wilton, Cork",
+    "slug": "wilton-cork",
+    "enabled": true
+  },
+  {
+    "name": "Woodford, Galway",
+    "slug": "woodford-galway",
+    "enabled": true
+  },
+  {
+    "name": "Woodquay, Galway",
+    "slug": "woodquay-galway",
+    "enabled": true
+  },
+  {
+    "name": "Youghal, Cork",
+    "slug": "youghal-cork",
+    "enabled": true
+  }
+]
