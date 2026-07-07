@@ -678,12 +678,12 @@ function normalizePropertyType(type) {
     console.log(`📄 data/daft/sale/${fileName}`);
 
     // ======================================
-    // 写入 crawl-summary.json
+    // 写入 crawl-summary-sale-regions.json
     // ======================================
 
     const summaryFile = path.join(
         dataDir,
-        "crawl-summary.json"
+        "crawl-summary-sale-regions.json"
     );
 
     let summary = [];
@@ -729,7 +729,7 @@ function normalizePropertyType(type) {
     );
 
     console.log(`📄 ${summaryFile}`);
-    console.log("✔ crawl-summary.json updated");
+    console.log("✔ crawl-summary-sale-regions.json updated");
 
     if (failedPages.length) {
 
