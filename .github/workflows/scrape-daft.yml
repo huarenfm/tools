@@ -53,10 +53,13 @@ jobs:
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
           
+          git pull origin main
+          
           git add data/daft/sale
+          git restore --staged data/daft/sale/crawl-summary.json
           
           git diff --cached --quiet || git commit -m "Update Daft Sale Regions"
           
-          git pull --rebase origin main
+          git push origin main
           
           git push origin main
