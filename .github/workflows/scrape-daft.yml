@@ -45,20 +45,18 @@ jobs:
       
       - name: Scrape Sale Other
         run: node scripts/scrape-daft.js other
-        
 
       - name: Commit updated properties
         run: |
 
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
-
+          
           git add data/daft/sale
-
+          
           git diff --cached --quiet || git commit -m "Update Daft Sale Regions"
-
+          
           git pull --rebase origin main
 
           git push origin main
-          
-          git push origin main
+
