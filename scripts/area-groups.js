@@ -45,10 +45,7 @@ module.exports = {
 
     // Galway + Limerick
     galway(area) {
-        return (
-            area.name.endsWith(", Galway") ||
-            area.name.endsWith(", Limerick")
-        );
+        return area.name.endsWith(", Galway");
     },
 
     // Kildare + Meath + Wicklow
@@ -79,10 +76,11 @@ module.exports = {
             "Kerry (County)",
             "Tipperary (County)",
             "Mayo (County)",
-            "Roscommon (County)"
+            "Roscommon (County)",
+            "Limerick (County)"
         ].includes(area.name);
     },
-
+    
     // 剩余所有
     other(area) {
 
