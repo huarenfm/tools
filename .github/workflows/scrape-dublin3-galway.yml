@@ -1,0 +1,54 @@
+name: 更新Daft Sale房源（dublin3 + galway 区域）
+
+on:
+  workflow_dispatch:
+
+  schedule:
+    - cron: "0 4 * * 2-6"
+
+permissions:
+  contents: write
+
+jobs:
+  scrape:
+
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - name: Checkout main repository
+        uses: actions/checkout@v4
+        with:
+          repository: edwardw223/Ireland-Property-Map
+          token: ${{ secrets.DADS_MAIN_REPO_TOKEN }}
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Install Playwright
+        run: npx playwright install chromium
+
+      - name: Scrape Sale Dublin3
+        run: node scripts/scrape-daft.js dublin3
+
+      - name: Scrape Sale Galway
+        run: node scripts/scrape-daft.js galway
+
+      - name: Commit updated properties
+        run: |
+
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          
+          git add data/daft/sale
+          
+          git diff --cached --quiet || git commit -m "Update Daft Sale Dublin3 & Galway"
+          
+          git pull --rebase origin main
+          
+          git push origin main
