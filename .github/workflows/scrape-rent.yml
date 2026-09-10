@@ -1,0 +1,50 @@
+name:  更新 Daft 租房房源（所有区域）
+
+on:
+  workflow_dispatch:
+
+  schedule:
+    - cron: "0 0 * * 2-6"
+
+permissions:
+  contents: write
+
+jobs:
+  scrape:
+
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Install Playwright
+        run: npx playwright install chromium
+
+      - name: Scrape Rent Dublin
+        run: node scripts/scrape-daft-rent.js dublin
+
+      - name: Scrape Rent Ireland
+        run: node scripts/scrape-daft-rent.js ireland
+
+      - name: Commit updated properties
+        run: |
+
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+
+          git add data/daft/rent
+
+          git diff --cached --quiet || git commit -m "Update Daft Rent"
+
+          git pull --rebase --autostash origin main
+          git push
