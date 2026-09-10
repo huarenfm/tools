@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
 
   schedule:
-    - cron: "15 6 * * 2-6"
+    - cron: "15 4 * * 2-6"
 
 permissions:
   contents: write
@@ -32,7 +32,6 @@ jobs:
 
       - name: Install Playwright
         run: npx playwright install chromium
-        
 
       - name: Scrape Sale Cork
         run: node scripts/scrape-daft.js cork
