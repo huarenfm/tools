@@ -20,7 +20,7 @@ jobs:
         uses: actions/checkout@v4
         with:
           repository: edwardw223/Ireland-Property-Map
-          token: ${{ secrets.DADS_MAIN_REPO_TOKEN }}
+          token: ${{ secrets.MAIN_REPO_TOKEN }}
 
       - name: Setup Node.js
         uses: actions/setup-node@v4
